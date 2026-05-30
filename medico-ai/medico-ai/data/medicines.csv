@@ -1,0 +1,119 @@
+brand_name,generic_name,salt_composition,manufacturer,brand_price_per_unit,unit_type,generic_price_per_unit,jan_aushadhi_price,category,strength,form
+Crocin,Paracetamol,Paracetamol 500mg,GSK,2.50,tablet,0.50,0.35,Analgesic/Antipyretic,500mg,tablet
+Dolo 650,Paracetamol,Paracetamol 650mg,Micro Labs,3.20,tablet,0.60,0.40,Analgesic/Antipyretic,650mg,tablet
+Combiflam,Ibuprofen + Paracetamol,Ibuprofen 400mg + Paracetamol 325mg,Sanofi,6.50,tablet,1.20,0.80,Analgesic/Anti-inflammatory,400mg+325mg,tablet
+Brufen,Ibuprofen,Ibuprofen 400mg,Abbott,5.00,tablet,0.90,0.60,Anti-inflammatory,400mg,tablet
+Augmentin,Amoxicillin + Clavulanic Acid,Amoxicillin 500mg + Clavulanate 125mg,GSK,38.50,tablet,8.00,5.50,Antibiotic,500mg+125mg,tablet
+Amoxil,Amoxicillin,Amoxicillin 500mg,GSK,18.00,capsule,3.50,2.20,Antibiotic,500mg,capsule
+Azithral,Azithromycin,Azithromycin 500mg,Alembic,42.00,tablet,7.50,5.00,Antibiotic,500mg,tablet
+Zithromax,Azithromycin,Azithromycin 250mg,Pfizer,32.00,tablet,5.00,3.50,Antibiotic,250mg,tablet
+Ciprobid,Ciprofloxacin,Ciprofloxacin 500mg,Cadila,12.00,tablet,2.50,1.80,Antibiotic,500mg,tablet
+Ciplox,Ciprofloxacin,Ciprofloxacin 500mg,Cipla,14.00,tablet,2.50,1.80,Antibiotic,500mg,tablet
+Metrogyl,Metronidazole,Metronidazole 400mg,J.B. Chemicals,5.50,tablet,0.80,0.55,Antibiotic/Antiprotozoal,400mg,tablet
+Flagyl,Metronidazole,Metronidazole 400mg,Abbott,7.20,tablet,0.80,0.55,Antibiotic/Antiprotozoal,400mg,tablet
+Pantop,Pantoprazole,Pantoprazole 40mg,Aristo,8.50,tablet,1.50,1.00,Antacid/PPI,40mg,tablet
+Pan 40,Pantoprazole,Pantoprazole 40mg,Alkem,9.00,tablet,1.50,1.00,Antacid/PPI,40mg,tablet
+Omez,Omeprazole,Omeprazole 20mg,Dr. Reddy's,6.00,capsule,1.20,0.80,Antacid/PPI,20mg,capsule
+Prilosec,Omeprazole,Omeprazole 20mg,Pfizer,8.00,capsule,1.20,0.80,Antacid/PPI,20mg,capsule
+Rantac,Ranitidine,Ranitidine 150mg,J.B. Chemicals,3.50,tablet,0.60,0.40,Antacid/H2 Blocker,150mg,tablet
+Zinetac,Ranitidine,Ranitidine 150mg,GSK,4.20,tablet,0.60,0.40,Antacid/H2 Blocker,150mg,tablet
+Cetrizine,Cetirizine,Cetirizine 10mg,Various,2.50,tablet,0.40,0.30,Antihistamine,10mg,tablet
+Zyrtec,Cetirizine,Cetirizine 10mg,UCB,6.00,tablet,0.40,0.30,Antihistamine,10mg,tablet
+Allegra,Fexofenadine,Fexofenadine 120mg,Sanofi,12.00,tablet,2.50,1.80,Antihistamine,120mg,tablet
+Montair,Montelukast,Montelukast 10mg,Cipla,18.00,tablet,3.50,2.50,Antiasthmatic/Antiallergic,10mg,tablet
+Singulair,Montelukast,Montelukast 10mg,MSD,22.00,tablet,3.50,2.50,Antiasthmatic/Antiallergic,10mg,tablet
+Asthalin,Salbutamol,Salbutamol 2mg,Cipla,1.80,tablet,0.35,0.25,Bronchodilator,2mg,tablet
+Ventolin,Salbutamol,Salbutamol 2mg,GSK,2.50,tablet,0.35,0.25,Bronchodilator,2mg,tablet
+Glycomet,Metformin,Metformin 500mg,USV,3.50,tablet,0.60,0.40,Antidiabetic,500mg,tablet
+Glucophage,Metformin,Metformin 500mg,Merck,5.00,tablet,0.60,0.40,Antidiabetic,500mg,tablet
+Gluconorm,Metformin + Glipizide,Metformin 500mg + Glipizide 5mg,Sun Pharma,8.00,tablet,1.80,1.20,Antidiabetic,500mg+5mg,tablet
+Amaryl,Glimepiride,Glimepiride 2mg,Sanofi,12.00,tablet,2.50,1.80,Antidiabetic,2mg,tablet
+Amlodac,Amlodipine,Amlodipine 5mg,Zydus,5.00,tablet,0.80,0.55,Antihypertensive/CCB,5mg,tablet
+Norvasc,Amlodipine,Amlodipine 5mg,Pfizer,18.00,tablet,0.80,0.55,Antihypertensive/CCB,5mg,tablet
+Telma,Telmisartan,Telmisartan 40mg,Glenmark,10.00,tablet,2.00,1.40,Antihypertensive/ARB,40mg,tablet
+Micardis,Telmisartan,Telmisartan 40mg,Boehringer,22.00,tablet,2.00,1.40,Antihypertensive/ARB,40mg,tablet
+Atenolol,Atenolol,Atenolol 50mg,Various,2.50,tablet,0.50,0.35,Antihypertensive/Beta-blocker,50mg,tablet
+Tenormin,Atenolol,Atenolol 50mg,AstraZeneca,6.50,tablet,0.50,0.35,Antihypertensive/Beta-blocker,50mg,tablet
+Ecosprin,Aspirin,Aspirin 75mg,USV,1.50,tablet,0.25,0.18,Antiplatelet,75mg,tablet
+Disprin,Aspirin,Aspirin 325mg,Reckitt,3.00,tablet,0.50,0.35,Analgesic/Antiplatelet,325mg,tablet
+Atorva,Atorvastatin,Atorvastatin 10mg,Zydus,5.50,tablet,1.20,0.80,Antilipidemic/Statin,10mg,tablet
+Lipitor,Atorvastatin,Atorvastatin 10mg,Pfizer,22.00,tablet,1.20,0.80,Antilipidemic/Statin,10mg,tablet
+Rozucor,Rosuvastatin,Rosuvastatin 10mg,Sun Pharma,8.00,tablet,1.80,1.20,Antilipidemic/Statin,10mg,tablet
+Crestor,Rosuvastatin,Rosuvastatin 10mg,AstraZeneca,28.00,tablet,1.80,1.20,Antilipidemic/Statin,10mg,tablet
+Thyrox,Levothyroxine,Levothyroxine 50mcg,Macleods,2.20,tablet,0.50,0.35,Thyroid,50mcg,tablet
+Eltroxin,Levothyroxine,Levothyroxine 50mcg,GSK,4.50,tablet,0.50,0.35,Thyroid,50mcg,tablet
+Dexona,Dexamethasone,Dexamethasone 0.5mg,Samarth,1.20,tablet,0.30,0.20,Corticosteroid,0.5mg,tablet
+Wysolone,Prednisolone,Prednisolone 5mg,Pfizer,3.50,tablet,0.70,0.50,Corticosteroid,5mg,tablet
+Digene,Aluminium Hydroxide + Magnesium Hydroxide,Al(OH)3 + Mg(OH)2 + Simethicone,Abbott,8.00,tablet,1.50,1.00,Antacid,combination,tablet
+Gelusil,Aluminium Hydroxide + Magnesium Hydroxide,Al(OH)3 300mg + Mg(OH)2 150mg,Pfizer,7.50,tablet,1.50,1.00,Antacid,combination,tablet
+Avomine,Promethazine,Promethazine 25mg,RPG Pharma,3.50,tablet,0.70,0.50,Antihistamine/Antiemetic,25mg,tablet
+Emeset,Ondansetron,Ondansetron 4mg,Cipla,12.00,tablet,2.50,1.80,Antiemetic,4mg,tablet
+Zofran,Ondansetron,Ondansetron 4mg,GSK,18.00,tablet,2.50,1.80,Antiemetic,4mg,tablet
+Stemetil,Prochlorperazine,Prochlorperazine 5mg,RPG Pharma,4.00,tablet,0.80,0.55,Antiemetic,5mg,tablet
+Domperi,Domperidone,Domperidone 10mg,Alkem,4.50,tablet,0.90,0.60,Prokinetic/Antiemetic,10mg,tablet
+Motilium,Domperidone,Domperidone 10mg,Johnson,8.00,tablet,0.90,0.60,Prokinetic/Antiemetic,10mg,tablet
+Drotin,Drotaverine,Drotaverine 40mg,Dr. Reddy's,8.00,tablet,1.60,1.10,Antispasmodic,40mg,tablet
+Meftal,Mefenamic Acid,Mefenamic Acid 500mg,Blue Cross,7.50,tablet,1.50,1.00,Analgesic/NSAID,500mg,tablet
+Voltaren,Diclofenac,Diclofenac 50mg,Novartis,8.50,tablet,1.70,1.20,Anti-inflammatory/NSAID,50mg,tablet
+Voveran,Diclofenac,Diclofenac 50mg,Novartis,7.50,tablet,1.70,1.20,Anti-inflammatory/NSAID,50mg,tablet
+Zerodol,Aceclofenac,Aceclofenac 100mg,Ipca,9.00,tablet,1.80,1.25,Anti-inflammatory/NSAID,100mg,tablet
+Hifenac,Aceclofenac,Aceclofenac 100mg,Intas,8.50,tablet,1.80,1.25,Anti-inflammatory/NSAID,100mg,tablet
+Levoflox,Levofloxacin,Levofloxacin 500mg,Sun Pharma,18.00,tablet,3.50,2.50,Antibiotic,500mg,tablet
+Levaquin,Levofloxacin,Levofloxacin 500mg,J&J,28.00,tablet,3.50,2.50,Antibiotic,500mg,tablet
+Cefixime,Cefixime,Cefixime 200mg,Various,25.00,tablet,5.00,3.50,Antibiotic/Cephalosporin,200mg,tablet
+Taxim-O,Cefixime,Cefixime 200mg,Alkem,32.00,tablet,5.00,3.50,Antibiotic/Cephalosporin,200mg,tablet
+Fluconazole,Fluconazole,Fluconazole 150mg,Various,12.00,tablet,2.50,1.80,Antifungal,150mg,tablet
+Flucos,Fluconazole,Fluconazole 150mg,Cipla,18.00,tablet,2.50,1.80,Antifungal,150mg,tablet
+Sporanox,Itraconazole,Itraconazole 100mg,J&J,65.00,capsule,12.00,8.00,Antifungal,100mg,capsule
+Canditral,Itraconazole,Itraconazole 100mg,Glenmark,45.00,capsule,12.00,8.00,Antifungal,100mg,capsule
+Aciclovir,Acyclovir,Acyclovir 400mg,Various,8.00,tablet,1.60,1.10,Antiviral,400mg,tablet
+Zovirax,Acyclovir,Acyclovir 400mg,GSK,22.00,tablet,1.60,1.10,Antiviral,400mg,tablet
+Clavam,Amoxicillin + Clavulanic Acid,Amoxicillin 625mg + Clavulanate 125mg,Alembic,35.00,tablet,7.50,5.00,Antibiotic,625mg+125mg,tablet
+Mox,Amoxicillin,Amoxicillin 250mg,Ranbaxy,10.00,capsule,2.20,1.50,Antibiotic,250mg,capsule
+Doxycycline,Doxycycline,Doxycycline 100mg,Various,8.00,capsule,1.50,1.00,Antibiotic/Tetracycline,100mg,capsule
+Doxt,Doxycycline,Doxycycline 100mg,JBCPL,14.00,capsule,1.50,1.00,Antibiotic/Tetracycline,100mg,capsule
+Becosules,Vitamin B Complex,Vit B1+B2+B3+B5+B6+B12+Folic Acid+C,Pfizer,12.00,capsule,2.00,1.40,Vitamin/Supplement,complex,capsule
+Neurobion,Vitamin B Complex,Vit B1+B6+B12,Merck,8.00,tablet,1.50,1.00,Vitamin/Supplement,complex,tablet
+Shelcal,Calcium + Vitamin D3,Calcium 500mg + Vit D3 250IU,Elder,12.00,tablet,2.50,1.80,Supplement,500mg+250IU,tablet
+Calcirol,Vitamin D3,Cholecalciferol 60000IU,Cadila,28.00,sachet,5.00,3.50,Supplement,60000IU,sachet
+Revital,Multivitamin,Multivitamin + Minerals,Ranbaxy,22.00,capsule,4.00,2.80,Supplement,complex,capsule
+Benadryl,Diphenhydramine,Diphenhydramine 25mg,J&J,4.50,tablet,0.90,0.60,Antihistamine,25mg,tablet
+Phenergan,Promethazine,Promethazine 10mg,RPG Pharma,3.00,tablet,0.60,0.40,Antihistamine,10mg,tablet
+Mirtaz,Mirtazapine,Mirtazapine 15mg,Sun Pharma,12.00,tablet,2.50,1.80,Antidepressant,15mg,tablet
+Zoloft,Sertraline,Sertraline 50mg,Pfizer,28.00,tablet,5.50,3.80,Antidepressant/SSRI,50mg,tablet
+Serta,Sertraline,Sertraline 50mg,Sun Pharma,18.00,tablet,5.50,3.80,Antidepressant/SSRI,50mg,tablet
+Nexito,Escitalopram,Escitalopram 10mg,Sun Pharma,15.00,tablet,3.00,2.10,Antidepressant/SSRI,10mg,tablet
+Zapiz,Clonazepam,Clonazepam 0.5mg,Cadila,5.00,tablet,1.00,0.70,Anxiolytic/Anticonvulsant,0.5mg,tablet
+Clonafit,Clonazepam,Clonazepam 0.5mg,Sun Pharma,6.00,tablet,1.00,0.70,Anxiolytic/Anticonvulsant,0.5mg,tablet
+Alzolam,Alprazolam,Alprazolam 0.25mg,Sun Pharma,3.50,tablet,0.70,0.50,Anxiolytic,0.25mg,tablet
+Alprax,Alprazolam,Alprazolam 0.25mg,Torrent,4.00,tablet,0.70,0.50,Anxiolytic,0.25mg,tablet
+Frisium,Clobazam,Clobazam 10mg,Sanofi,15.00,tablet,3.00,2.10,Anticonvulsant,10mg,tablet
+Valium,Diazepam,Diazepam 5mg,Roche,5.00,tablet,1.00,0.70,Anxiolytic,5mg,tablet
+Tegretol,Carbamazepine,Carbamazepine 200mg,Novartis,8.00,tablet,1.60,1.10,Anticonvulsant,200mg,tablet
+Mazetol,Carbamazepine,Carbamazepine 200mg,Sun Pharma,5.50,tablet,1.60,1.10,Anticonvulsant,200mg,tablet
+Eptoin,Phenytoin,Phenytoin 100mg,Abbott,3.00,tablet,0.60,0.40,Anticonvulsant,100mg,tablet
+Dilantin,Phenytoin,Phenytoin 100mg,Pfizer,8.00,tablet,0.60,0.40,Anticonvulsant,100mg,tablet
+Valparin,Valproate,Valproate 200mg,Sanofi,8.50,tablet,1.70,1.20,Anticonvulsant,200mg,tablet
+Oxetol,Oxcarbazepine,Oxcarbazepine 300mg,Sun Pharma,22.00,tablet,4.50,3.20,Anticonvulsant,300mg,tablet
+Syndopa,Levodopa + Carbidopa,Levodopa 100mg + Carbidopa 25mg,Sun Pharma,8.00,tablet,1.60,1.10,Antiparkinsonian,100mg+25mg,tablet
+Sinemet,Levodopa + Carbidopa,Levodopa 100mg + Carbidopa 25mg,MSD,28.00,tablet,1.60,1.10,Antiparkinsonian,100mg+25mg,tablet
+Allopurinol,Allopurinol,Allopurinol 100mg,Various,3.50,tablet,0.70,0.50,Antigout,100mg,tablet
+Zyloric,Allopurinol,Allopurinol 300mg,GSK,12.00,tablet,2.50,1.80,Antigout,300mg,tablet
+Colchicine,Colchicine,Colchicine 0.5mg,Various,5.00,tablet,1.00,0.70,Antigout,0.5mg,tablet
+Warfarin,Warfarin,Warfarin 5mg,Various,4.00,tablet,0.80,0.55,Anticoagulant,5mg,tablet
+Acitrom,Acenocoumarol,Acenocoumarol 2mg,Nicholas Piramal,5.00,tablet,1.00,0.70,Anticoagulant,2mg,tablet
+Clexane,Enoxaparin,Enoxaparin 40mg,Sanofi,185.00,injection,40.00,28.00,Anticoagulant,40mg,injection
+Thyronorm,Levothyroxine,Levothyroxine 50mcg,Abbott,3.50,tablet,0.50,0.35,Thyroid,50mcg,tablet
+Lanzor,Lansoprazole,Lansoprazole 30mg,Dr. Reddy's,8.00,capsule,1.60,1.10,Antacid/PPI,30mg,capsule
+Prevacid,Lansoprazole,Lansoprazole 30mg,TAP Pharma,25.00,capsule,1.60,1.10,Antacid/PPI,30mg,capsule
+Rablet,Rabeprazole,Rabeprazole 20mg,Lupin,10.00,tablet,2.00,1.40,Antacid/PPI,20mg,tablet
+Pariet,Rabeprazole,Rabeprazole 20mg,Eisai,28.00,tablet,2.00,1.40,Antacid/PPI,20mg,tablet
+Esomac,Esomeprazole,Esomeprazole 40mg,Macleods,12.00,tablet,2.50,1.75,Antacid/PPI,40mg,tablet
+Nexium,Esomeprazole,Esomeprazole 40mg,AstraZeneca,42.00,tablet,2.50,1.75,Antacid/PPI,40mg,tablet
+Tamsulosin,Tamsulosin,Tamsulosin 0.4mg,Various,12.00,tablet,2.50,1.80,Alpha Blocker/BPH,0.4mg,tablet
+Urimax,Tamsulosin,Tamsulosin 0.4mg,Cipla,18.00,tablet,2.50,1.80,Alpha Blocker/BPH,0.4mg,tablet
+Finpecia,Finasteride,Finasteride 1mg,Cipla,8.00,tablet,1.60,1.10,5-alpha Reductase Inhibitor,1mg,tablet
+Proscar,Finasteride,Finasteride 5mg,MSD,35.00,tablet,7.00,5.00,5-alpha Reductase Inhibitor,5mg,tablet
+Sildenafil,Sildenafil,Sildenafil 50mg,Various,22.00,tablet,5.00,3.50,PDE5 Inhibitor/ED,50mg,tablet
+Viagra,Sildenafil,Sildenafil 50mg,Pfizer,250.00,tablet,5.00,3.50,PDE5 Inhibitor/ED,50mg,tablet
+Manforce,Sildenafil,Sildenafil 50mg,Mankind,45.00,tablet,5.00,3.50,PDE5 Inhibitor/ED,50mg,tablet
