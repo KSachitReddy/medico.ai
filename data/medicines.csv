@@ -1,0 +1,701 @@
+brand_name,generic_name,salt_composition,manufacturer,brand_price_per_unit,unit_type,generic_price_per_unit,jan_aushadhi_price,category,strength,form
+Crocin,Paracetamol,Paracetamol 500mg,GSK,2.5,tablet,0.5,0.35,Analgesic/Antipyretic,500mg,tablet
+Dolo 650,Paracetamol,Paracetamol 650mg,Micro Labs,3.2,tablet,0.6,0.4,Analgesic/Antipyretic,650mg,tablet
+Combiflam,Ibuprofen + Paracetamol,Ibuprofen 400mg + Paracetamol 325mg,Sanofi,6.5,tablet,1.2,0.8,Analgesic/Anti-inflammatory,400mg+325mg,tablet
+Brufen,Ibuprofen,Ibuprofen 400mg,Abbott,5.0,tablet,0.9,0.6,Anti-inflammatory,400mg,tablet
+Augmentin,Amoxicillin + Clavulanic Acid,Amoxicillin 500mg + Clavulanate 125mg,GSK,38.5,tablet,8.0,5.5,Antibiotic,500mg+125mg,tablet
+Amoxil,Amoxicillin,Amoxicillin 500mg,GSK,18.0,capsule,3.5,2.2,Antibiotic,500mg,capsule
+Azithral,Azithromycin,Azithromycin 500mg,Alembic,42.0,tablet,7.5,5.0,Antibiotic,500mg,tablet
+Zithromax,Azithromycin,Azithromycin 250mg,Pfizer,32.0,tablet,5.0,3.5,Antibiotic,250mg,tablet
+Ciprobid,Ciprofloxacin,Ciprofloxacin 500mg,Cadila,12.0,tablet,2.5,1.8,Antibiotic,500mg,tablet
+Ciplox,Ciprofloxacin,Ciprofloxacin 500mg,Cipla,14.0,tablet,2.5,1.8,Antibiotic,500mg,tablet
+Metrogyl,Metronidazole,Metronidazole 400mg,J.B. Chemicals,5.5,tablet,0.8,0.55,Antibiotic/Antiprotozoal,400mg,tablet
+Flagyl,Metronidazole,Metronidazole 400mg,Abbott,7.2,tablet,0.8,0.55,Antibiotic/Antiprotozoal,400mg,tablet
+Pantop,Pantoprazole,Pantoprazole 40mg,Aristo,8.5,tablet,1.5,1.0,Antacid/PPI,40mg,tablet
+Pan 40,Pantoprazole,Pantoprazole 40mg,Alkem,9.0,tablet,1.5,1.0,Antacid/PPI,40mg,tablet
+Omez,Omeprazole,Omeprazole 20mg,Dr. Reddy's,6.0,capsule,1.2,0.8,Antacid/PPI,20mg,capsule
+Prilosec,Omeprazole,Omeprazole 20mg,Pfizer,8.0,capsule,1.2,0.8,Antacid/PPI,20mg,capsule
+Rantac,Ranitidine,Ranitidine 150mg,J.B. Chemicals,3.5,tablet,0.6,0.4,Antacid/H2 Blocker,150mg,tablet
+Zinetac,Ranitidine,Ranitidine 150mg,GSK,4.2,tablet,0.6,0.4,Antacid/H2 Blocker,150mg,tablet
+Cetrizine,Cetirizine,Cetirizine 10mg,Various,2.5,tablet,0.4,0.3,Antihistamine,10mg,tablet
+Zyrtec,Cetirizine,Cetirizine 10mg,UCB,6.0,tablet,0.4,0.3,Antihistamine,10mg,tablet
+Allegra,Fexofenadine,Fexofenadine 120mg,Sanofi,12.0,tablet,2.5,1.8,Antihistamine,120mg,tablet
+Montair,Montelukast,Montelukast 10mg,Cipla,18.0,tablet,3.5,2.5,Antiasthmatic/Antiallergic,10mg,tablet
+Singulair,Montelukast,Montelukast 10mg,MSD,22.0,tablet,3.5,2.5,Antiasthmatic/Antiallergic,10mg,tablet
+Asthalin,Salbutamol,Salbutamol 2mg,Cipla,1.8,tablet,0.35,0.25,Bronchodilator,2mg,tablet
+Ventolin,Salbutamol,Salbutamol 2mg,GSK,2.5,tablet,0.35,0.25,Bronchodilator,2mg,tablet
+Glycomet,Metformin,Metformin 500mg,USV,3.5,tablet,0.6,0.4,Antidiabetic,500mg,tablet
+Glucophage,Metformin,Metformin 500mg,Merck,5.0,tablet,0.6,0.4,Antidiabetic,500mg,tablet
+Gluconorm,Metformin + Glipizide,Metformin 500mg + Glipizide 5mg,Sun Pharma,8.0,tablet,1.8,1.2,Antidiabetic,500mg+5mg,tablet
+Amaryl,Glimepiride,Glimepiride 2mg,Sanofi,12.0,tablet,2.5,1.8,Antidiabetic,2mg,tablet
+Amlodac,Amlodipine,Amlodipine 5mg,Zydus,5.0,tablet,0.8,0.55,Antihypertensive/CCB,5mg,tablet
+Norvasc,Amlodipine,Amlodipine 5mg,Pfizer,18.0,tablet,0.8,0.55,Antihypertensive/CCB,5mg,tablet
+Telma,Telmisartan,Telmisartan 40mg,Glenmark,10.0,tablet,2.0,1.4,Antihypertensive/ARB,40mg,tablet
+Micardis,Telmisartan,Telmisartan 40mg,Boehringer,22.0,tablet,2.0,1.4,Antihypertensive/ARB,40mg,tablet
+Atenolol,Atenolol,Atenolol 50mg,Various,2.5,tablet,0.5,0.35,Antihypertensive/Beta-blocker,50mg,tablet
+Tenormin,Atenolol,Atenolol 50mg,AstraZeneca,6.5,tablet,0.5,0.35,Antihypertensive/Beta-blocker,50mg,tablet
+Ecosprin,Aspirin,Aspirin 75mg,USV,1.5,tablet,0.25,0.18,Antiplatelet,75mg,tablet
+Disprin,Aspirin,Aspirin 325mg,Reckitt,3.0,tablet,0.5,0.35,Analgesic/Antiplatelet,325mg,tablet
+Atorva,Atorvastatin,Atorvastatin 10mg,Zydus,5.5,tablet,1.2,0.8,Antilipidemic/Statin,10mg,tablet
+Lipitor,Atorvastatin,Atorvastatin 10mg,Pfizer,22.0,tablet,1.2,0.8,Antilipidemic/Statin,10mg,tablet
+Rozucor,Rosuvastatin,Rosuvastatin 10mg,Sun Pharma,8.0,tablet,1.8,1.2,Antilipidemic/Statin,10mg,tablet
+Crestor,Rosuvastatin,Rosuvastatin 10mg,AstraZeneca,28.0,tablet,1.8,1.2,Antilipidemic/Statin,10mg,tablet
+Thyrox,Levothyroxine,Levothyroxine 50mcg,Macleods,2.2,tablet,0.5,0.35,Thyroid,50mcg,tablet
+Eltroxin,Levothyroxine,Levothyroxine 50mcg,GSK,4.5,tablet,0.5,0.35,Thyroid,50mcg,tablet
+Dexona,Dexamethasone,Dexamethasone 0.5mg,Samarth,1.2,tablet,0.3,0.2,Corticosteroid,0.5mg,tablet
+Wysolone,Prednisolone,Prednisolone 5mg,Pfizer,3.5,tablet,0.7,0.5,Corticosteroid,5mg,tablet
+Digene,Aluminium Hydroxide + Magnesium Hydroxide,Al(OH)3 + Mg(OH)2 + Simethicone,Abbott,8.0,tablet,1.5,1.0,Antacid,combination,tablet
+Gelusil,Aluminium Hydroxide + Magnesium Hydroxide,Al(OH)3 300mg + Mg(OH)2 150mg,Pfizer,7.5,tablet,1.5,1.0,Antacid,combination,tablet
+Avomine,Promethazine,Promethazine 25mg,RPG Pharma,3.5,tablet,0.7,0.5,Antihistamine/Antiemetic,25mg,tablet
+Emeset,Ondansetron,Ondansetron 4mg,Cipla,12.0,tablet,2.5,1.8,Antiemetic,4mg,tablet
+Zofran,Ondansetron,Ondansetron 4mg,GSK,18.0,tablet,2.5,1.8,Antiemetic,4mg,tablet
+Stemetil,Prochlorperazine,Prochlorperazine 5mg,RPG Pharma,4.0,tablet,0.8,0.55,Antiemetic,5mg,tablet
+Domperi,Domperidone,Domperidone 10mg,Alkem,4.5,tablet,0.9,0.6,Prokinetic/Antiemetic,10mg,tablet
+Motilium,Domperidone,Domperidone 10mg,Johnson,8.0,tablet,0.9,0.6,Prokinetic/Antiemetic,10mg,tablet
+Drotin,Drotaverine,Drotaverine 40mg,Dr. Reddy's,8.0,tablet,1.6,1.1,Antispasmodic,40mg,tablet
+Meftal,Mefenamic Acid,Mefenamic Acid 500mg,Blue Cross,7.5,tablet,1.5,1.0,Analgesic/NSAID,500mg,tablet
+Voltaren,Diclofenac,Diclofenac 50mg,Novartis,8.5,tablet,1.7,1.2,Anti-inflammatory/NSAID,50mg,tablet
+Voveran,Diclofenac,Diclofenac 50mg,Novartis,7.5,tablet,1.7,1.2,Anti-inflammatory/NSAID,50mg,tablet
+Zerodol,Aceclofenac,Aceclofenac 100mg,Ipca,9.0,tablet,1.8,1.25,Anti-inflammatory/NSAID,100mg,tablet
+Hifenac,Aceclofenac,Aceclofenac 100mg,Intas,8.5,tablet,1.8,1.25,Anti-inflammatory/NSAID,100mg,tablet
+Levoflox,Levofloxacin,Levofloxacin 500mg,Sun Pharma,18.0,tablet,3.5,2.5,Antibiotic,500mg,tablet
+Levaquin,Levofloxacin,Levofloxacin 500mg,J&J,28.0,tablet,3.5,2.5,Antibiotic,500mg,tablet
+Cefixime,Cefixime,Cefixime 200mg,Various,25.0,tablet,5.0,3.5,Antibiotic/Cephalosporin,200mg,tablet
+Taxim-O,Cefixime,Cefixime 200mg,Alkem,32.0,tablet,5.0,3.5,Antibiotic/Cephalosporin,200mg,tablet
+Fluconazole,Fluconazole,Fluconazole 150mg,Various,12.0,tablet,2.5,1.8,Antifungal,150mg,tablet
+Flucos,Fluconazole,Fluconazole 150mg,Cipla,18.0,tablet,2.5,1.8,Antifungal,150mg,tablet
+Sporanox,Itraconazole,Itraconazole 100mg,J&J,65.0,capsule,12.0,8.0,Antifungal,100mg,capsule
+Canditral,Itraconazole,Itraconazole 100mg,Glenmark,45.0,capsule,12.0,8.0,Antifungal,100mg,capsule
+Aciclovir,Acyclovir,Acyclovir 400mg,Various,8.0,tablet,1.6,1.1,Antiviral,400mg,tablet
+Zovirax,Acyclovir,Acyclovir 400mg,GSK,22.0,tablet,1.6,1.1,Antiviral,400mg,tablet
+Clavam,Amoxicillin + Clavulanic Acid,Amoxicillin 625mg + Clavulanate 125mg,Alembic,35.0,tablet,7.5,5.0,Antibiotic,625mg+125mg,tablet
+Mox,Amoxicillin,Amoxicillin 250mg,Ranbaxy,10.0,capsule,2.2,1.5,Antibiotic,250mg,capsule
+Doxycycline,Doxycycline,Doxycycline 100mg,Various,8.0,capsule,1.5,1.0,Antibiotic/Tetracycline,100mg,capsule
+Doxt,Doxycycline,Doxycycline 100mg,JBCPL,14.0,capsule,1.5,1.0,Antibiotic/Tetracycline,100mg,capsule
+Becosules,Vitamin B Complex,Vit B1+B2+B3+B5+B6+B12+Folic Acid+C,Pfizer,12.0,capsule,2.0,1.4,Vitamin/Supplement,complex,capsule
+Neurobion,Vitamin B Complex,Vit B1+B6+B12,Merck,8.0,tablet,1.5,1.0,Vitamin/Supplement,complex,tablet
+Shelcal,Calcium + Vitamin D3,Calcium 500mg + Vit D3 250IU,Elder,12.0,tablet,2.5,1.8,Supplement,500mg+250IU,tablet
+Calcirol,Vitamin D3,Cholecalciferol 60000IU,Cadila,28.0,sachet,5.0,3.5,Supplement,60000IU,sachet
+Revital,Multivitamin,Multivitamin + Minerals,Ranbaxy,22.0,capsule,4.0,2.8,Supplement,complex,capsule
+Benadryl,Diphenhydramine,Diphenhydramine 25mg,J&J,4.5,tablet,0.9,0.6,Antihistamine,25mg,tablet
+Phenergan,Promethazine,Promethazine 10mg,RPG Pharma,3.0,tablet,0.6,0.4,Antihistamine,10mg,tablet
+Mirtaz,Mirtazapine,Mirtazapine 15mg,Sun Pharma,12.0,tablet,2.5,1.8,Antidepressant,15mg,tablet
+Zoloft,Sertraline,Sertraline 50mg,Pfizer,28.0,tablet,5.5,3.8,Antidepressant/SSRI,50mg,tablet
+Serta,Sertraline,Sertraline 50mg,Sun Pharma,18.0,tablet,5.5,3.8,Antidepressant/SSRI,50mg,tablet
+Nexito,Escitalopram,Escitalopram 10mg,Sun Pharma,15.0,tablet,3.0,2.1,Antidepressant/SSRI,10mg,tablet
+Zapiz,Clonazepam,Clonazepam 0.5mg,Cadila,5.0,tablet,1.0,0.7,Anxiolytic/Anticonvulsant,0.5mg,tablet
+Clonafit,Clonazepam,Clonazepam 0.5mg,Sun Pharma,6.0,tablet,1.0,0.7,Anxiolytic/Anticonvulsant,0.5mg,tablet
+Alzolam,Alprazolam,Alprazolam 0.25mg,Sun Pharma,3.5,tablet,0.7,0.5,Anxiolytic,0.25mg,tablet
+Alprax,Alprazolam,Alprazolam 0.25mg,Torrent,4.0,tablet,0.7,0.5,Anxiolytic,0.25mg,tablet
+Frisium,Clobazam,Clobazam 10mg,Sanofi,15.0,tablet,3.0,2.1,Anticonvulsant,10mg,tablet
+Valium,Diazepam,Diazepam 5mg,Roche,5.0,tablet,1.0,0.7,Anxiolytic,5mg,tablet
+Tegretol,Carbamazepine,Carbamazepine 200mg,Novartis,8.0,tablet,1.6,1.1,Anticonvulsant,200mg,tablet
+Mazetol,Carbamazepine,Carbamazepine 200mg,Sun Pharma,5.5,tablet,1.6,1.1,Anticonvulsant,200mg,tablet
+Eptoin,Phenytoin,Phenytoin 100mg,Abbott,3.0,tablet,0.6,0.4,Anticonvulsant,100mg,tablet
+Dilantin,Phenytoin,Phenytoin 100mg,Pfizer,8.0,tablet,0.6,0.4,Anticonvulsant,100mg,tablet
+Valparin,Valproate,Valproate 200mg,Sanofi,8.5,tablet,1.7,1.2,Anticonvulsant,200mg,tablet
+Oxetol,Oxcarbazepine,Oxcarbazepine 300mg,Sun Pharma,22.0,tablet,4.5,3.2,Anticonvulsant,300mg,tablet
+Syndopa,Levodopa + Carbidopa,Levodopa 100mg + Carbidopa 25mg,Sun Pharma,8.0,tablet,1.6,1.1,Antiparkinsonian,100mg+25mg,tablet
+Sinemet,Levodopa + Carbidopa,Levodopa 100mg + Carbidopa 25mg,MSD,28.0,tablet,1.6,1.1,Antiparkinsonian,100mg+25mg,tablet
+Allopurinol,Allopurinol,Allopurinol 100mg,Various,3.5,tablet,0.7,0.5,Antigout,100mg,tablet
+Zyloric,Allopurinol,Allopurinol 300mg,GSK,12.0,tablet,2.5,1.8,Antigout,300mg,tablet
+Colchicine,Colchicine,Colchicine 0.5mg,Various,5.0,tablet,1.0,0.7,Antigout,0.5mg,tablet
+Warfarin,Warfarin,Warfarin 5mg,Various,4.0,tablet,0.8,0.55,Anticoagulant,5mg,tablet
+Acitrom,Acenocoumarol,Acenocoumarol 2mg,Nicholas Piramal,5.0,tablet,1.0,0.7,Anticoagulant,2mg,tablet
+Clexane,Enoxaparin,Enoxaparin 40mg,Sanofi,185.0,injection,40.0,28.0,Anticoagulant,40mg,injection
+Thyronorm,Levothyroxine,Levothyroxine 50mcg,Abbott,3.5,tablet,0.5,0.35,Thyroid,50mcg,tablet
+Lanzor,Lansoprazole,Lansoprazole 30mg,Dr. Reddy's,8.0,capsule,1.6,1.1,Antacid/PPI,30mg,capsule
+Prevacid,Lansoprazole,Lansoprazole 30mg,TAP Pharma,25.0,capsule,1.6,1.1,Antacid/PPI,30mg,capsule
+Rablet,Rabeprazole,Rabeprazole 20mg,Lupin,10.0,tablet,2.0,1.4,Antacid/PPI,20mg,tablet
+Pariet,Rabeprazole,Rabeprazole 20mg,Eisai,28.0,tablet,2.0,1.4,Antacid/PPI,20mg,tablet
+Esomac,Esomeprazole,Esomeprazole 40mg,Macleods,12.0,tablet,2.5,1.75,Antacid/PPI,40mg,tablet
+Nexium,Esomeprazole,Esomeprazole 40mg,AstraZeneca,42.0,tablet,2.5,1.75,Antacid/PPI,40mg,tablet
+Tamsulosin,Tamsulosin,Tamsulosin 0.4mg,Various,12.0,tablet,2.5,1.8,Alpha Blocker/BPH,0.4mg,tablet
+Urimax,Tamsulosin,Tamsulosin 0.4mg,Cipla,18.0,tablet,2.5,1.8,Alpha Blocker/BPH,0.4mg,tablet
+Finpecia,Finasteride,Finasteride 1mg,Cipla,8.0,tablet,1.6,1.1,5-alpha Reductase Inhibitor,1mg,tablet
+Proscar,Finasteride,Finasteride 5mg,MSD,35.0,tablet,7.0,5.0,5-alpha Reductase Inhibitor,5mg,tablet
+Sildenafil,Sildenafil,Sildenafil 50mg,Various,22.0,tablet,5.0,3.5,PDE5 Inhibitor/ED,50mg,tablet
+Viagra,Sildenafil,Sildenafil 50mg,Pfizer,250.0,tablet,5.0,3.5,PDE5 Inhibitor/ED,50mg,tablet
+Manforce,Sildenafil,Sildenafil 50mg,Mankind,45.0,tablet,5.0,3.5,PDE5 Inhibitor/ED,50mg,tablet
+Cefpodoxime,Cefpodoxime,Cefpodoxime 200mg,Various,28.0,tablet,6.0,4.2,Antibiotic/Cephalosporin,200mg,tablet
+Cepodem,Cefpodoxime,Cefpodoxime 200mg,Alkem,35.0,tablet,6.0,4.2,Antibiotic/Cephalosporin,200mg,tablet
+Cefadroxil,Cefadroxil,Cefadroxil 500mg,Various,18.0,capsule,3.5,2.5,Antibiotic/Cephalosporin,500mg,capsule
+Droxyl,Cefadroxil,Cefadroxil 500mg,Cipla,25.0,capsule,3.5,2.5,Antibiotic/Cephalosporin,500mg,capsule
+Cephalexin,Cephalexin,Cephalexin 500mg,Various,15.0,capsule,3.0,2.1,Antibiotic/Cephalosporin,500mg,capsule
+Sporidex,Cephalexin,Cephalexin 500mg,Ranbaxy,22.0,capsule,3.0,2.1,Antibiotic/Cephalosporin,500mg,capsule
+Clindamycin,Clindamycin,Clindamycin 300mg,Various,28.0,capsule,5.5,3.8,Antibiotic,300mg,capsule
+Clindac,Clindamycin,Clindamycin 300mg,Pfizer,42.0,capsule,5.5,3.8,Antibiotic,300mg,capsule
+Erythromycin,Erythromycin,Erythromycin 250mg,Various,8.0,tablet,1.6,1.1,Antibiotic/Macrolide,250mg,tablet
+Erythrocin,Erythromycin,Erythromycin 250mg,Abbott,14.0,tablet,1.6,1.1,Antibiotic/Macrolide,250mg,tablet
+Clarithromycin,Clarithromycin,Clarithromycin 500mg,Various,38.0,tablet,7.5,5.2,Antibiotic/Macrolide,500mg,tablet
+Claribid,Clarithromycin,Clarithromycin 500mg,Abbott,55.0,tablet,7.5,5.2,Antibiotic/Macrolide,500mg,tablet
+Ofloxacin,Ofloxacin,Ofloxacin 200mg,Various,8.0,tablet,1.6,1.1,Antibiotic/Fluoroquinolone,200mg,tablet
+Zanocin,Ofloxacin,Ofloxacin 200mg,Sun Pharma,14.0,tablet,1.6,1.1,Antibiotic/Fluoroquinolone,200mg,tablet
+Norfloxacin,Norfloxacin,Norfloxacin 400mg,Various,6.0,tablet,1.2,0.85,Antibiotic/Fluoroquinolone,400mg,tablet
+Norflox,Norfloxacin,Norfloxacin 400mg,Cipla,10.0,tablet,1.2,0.85,Antibiotic/Fluoroquinolone,400mg,tablet
+Tinidazole,Tinidazole,Tinidazole 500mg,Various,8.0,tablet,1.6,1.1,Antiprotozoal,500mg,tablet
+Tiniba,Tinidazole,Tinidazole 500mg,Zydus,12.0,tablet,1.6,1.1,Antiprotozoal,500mg,tablet
+Glimepiride,Glimepiride,Glimepiride 1mg,Various,5.0,tablet,1.0,0.7,Antidiabetic/Sulfonylurea,1mg,tablet
+Glimpid,Glimepiride,Glimepiride 2mg,Intas,9.0,tablet,1.8,1.25,Antidiabetic/Sulfonylurea,2mg,tablet
+Gliclazide,Gliclazide,Gliclazide 80mg,Various,6.5,tablet,1.3,0.9,Antidiabetic/Sulfonylurea,80mg,tablet
+Diamicron,Gliclazide,Gliclazide 80mg,Servier,18.0,tablet,1.3,0.9,Antidiabetic/Sulfonylurea,80mg,tablet
+Teneligliptin,Teneligliptin,Teneligliptin 20mg,Various,18.0,tablet,3.5,2.5,Antidiabetic/DPP-4 Inhibitor,20mg,tablet
+Tenepure,Teneligliptin,Teneligliptin 20mg,Glenmark,25.0,tablet,3.5,2.5,Antidiabetic/DPP-4 Inhibitor,20mg,tablet
+Sitagliptin,Sitagliptin,Sitagliptin 100mg,Various,55.0,tablet,12.0,8.5,Antidiabetic/DPP-4 Inhibitor,100mg,tablet
+Januvia,Sitagliptin,Sitagliptin 100mg,MSD,95.0,tablet,12.0,8.5,Antidiabetic/DPP-4 Inhibitor,100mg,tablet
+Vildagliptin,Vildagliptin,Vildagliptin 50mg,Various,28.0,tablet,5.5,3.8,Antidiabetic/DPP-4 Inhibitor,50mg,tablet
+Galvus,Vildagliptin,Vildagliptin 50mg,Novartis,48.0,tablet,5.5,3.8,Antidiabetic/DPP-4 Inhibitor,50mg,tablet
+Dapagliflozin,Dapagliflozin,Dapagliflozin 10mg,Various,45.0,tablet,9.0,6.3,Antidiabetic/SGLT2 Inhibitor,10mg,tablet
+Forxiga,Dapagliflozin,Dapagliflozin 10mg,AstraZeneca,88.0,tablet,9.0,6.3,Antidiabetic/SGLT2 Inhibitor,10mg,tablet
+Empagliflozin,Empagliflozin,Empagliflozin 10mg,Various,52.0,tablet,10.0,7.0,Antidiabetic/SGLT2 Inhibitor,10mg,tablet
+Jardiance,Empagliflozin,Empagliflozin 10mg,Boehringer,98.0,tablet,10.0,7.0,Antidiabetic/SGLT2 Inhibitor,10mg,tablet
+Linagliptin,Linagliptin,Linagliptin 5mg,Various,42.0,tablet,8.5,6.0,Antidiabetic/DPP-4 Inhibitor,5mg,tablet
+Trajenta,Linagliptin,Linagliptin 5mg,Boehringer,78.0,tablet,8.5,6.0,Antidiabetic/DPP-4 Inhibitor,5mg,tablet
+Ramipril,Ramipril,Ramipril 5mg,Various,5.5,tablet,1.1,0.75,Antihypertensive/ACE Inhibitor,5mg,tablet
+Cardace,Ramipril,Ramipril 5mg,Sanofi,12.0,tablet,1.1,0.75,Antihypertensive/ACE Inhibitor,5mg,tablet
+Enalapril,Enalapril,Enalapril 5mg,Various,4.0,tablet,0.8,0.55,Antihypertensive/ACE Inhibitor,5mg,tablet
+Enapril,Enalapril,Enalapril 5mg,Sun Pharma,7.5,tablet,0.8,0.55,Antihypertensive/ACE Inhibitor,5mg,tablet
+Lisinopril,Lisinopril,Lisinopril 10mg,Various,4.5,tablet,0.9,0.62,Antihypertensive/ACE Inhibitor,10mg,tablet
+Listril,Lisinopril,Lisinopril 10mg,Torrent,8.0,tablet,0.9,0.62,Antihypertensive/ACE Inhibitor,10mg,tablet
+Losartan,Losartan,Losartan 50mg,Various,5.0,tablet,1.0,0.7,Antihypertensive/ARB,50mg,tablet
+Losar,Losartan,Losartan 50mg,Cipla,9.0,tablet,1.0,0.7,Antihypertensive/ARB,50mg,tablet
+Valsartan,Valsartan,Valsartan 80mg,Various,12.0,tablet,2.5,1.75,Antihypertensive/ARB,80mg,tablet
+Diovan,Valsartan,Valsartan 80mg,Novartis,32.0,tablet,2.5,1.75,Antihypertensive/ARB,80mg,tablet
+Olmesartan,Olmesartan,Olmesartan 20mg,Various,14.0,tablet,2.8,1.95,Antihypertensive/ARB,20mg,tablet
+Olmy,Olmesartan,Olmesartan 20mg,Sun Pharma,22.0,tablet,2.8,1.95,Antihypertensive/ARB,20mg,tablet
+Metoprolol,Metoprolol,Metoprolol 50mg,Various,4.0,tablet,0.8,0.55,Antihypertensive/Beta-blocker,50mg,tablet
+Metolar,Metoprolol,Metoprolol 50mg,Cipla,8.0,tablet,0.8,0.55,Antihypertensive/Beta-blocker,50mg,tablet
+Bisoprolol,Bisoprolol,Bisoprolol 5mg,Various,5.0,tablet,1.0,0.7,Antihypertensive/Beta-blocker,5mg,tablet
+Concor,Bisoprolol,Bisoprolol 5mg,Merck,18.0,tablet,1.0,0.7,Antihypertensive/Beta-blocker,5mg,tablet
+Carvedilol,Carvedilol,Carvedilol 6.25mg,Various,6.0,tablet,1.2,0.85,Antihypertensive/Beta-blocker,6.25mg,tablet
+Cardivas,Carvedilol,Carvedilol 6.25mg,Sun Pharma,12.0,tablet,1.2,0.85,Antihypertensive/Beta-blocker,6.25mg,tablet
+Nebivolol,Nebivolol,Nebivolol 5mg,Various,8.0,tablet,1.6,1.1,Antihypertensive/Beta-blocker,5mg,tablet
+Nebicard,Nebivolol,Nebivolol 5mg,Torrent,14.0,tablet,1.6,1.1,Antihypertensive/Beta-blocker,5mg,tablet
+Hydrochlorothiazide,Hydrochlorothiazide,Hydrochlorothiazide 25mg,Various,2.0,tablet,0.4,0.28,Antihypertensive/Diuretic,25mg,tablet
+Esidrex,Hydrochlorothiazide,Hydrochlorothiazide 25mg,Novartis,5.0,tablet,0.4,0.28,Antihypertensive/Diuretic,25mg,tablet
+Furosemide,Furosemide,Furosemide 40mg,Various,2.5,tablet,0.5,0.35,Diuretic,40mg,tablet
+Lasix,Furosemide,Furosemide 40mg,Sanofi,5.5,tablet,0.5,0.35,Diuretic,40mg,tablet
+Spironolactone,Spironolactone,Spironolactone 25mg,Various,4.0,tablet,0.8,0.55,Diuretic/Aldosterone Antagonist,25mg,tablet
+Aldactone,Spironolactone,Spironolactone 25mg,Pfizer,9.0,tablet,0.8,0.55,Diuretic/Aldosterone Antagonist,25mg,tablet
+Digoxin,Digoxin,Digoxin 0.25mg,Various,3.5,tablet,0.7,0.5,Cardiac Glycoside,0.25mg,tablet
+Lanoxin,Digoxin,Digoxin 0.25mg,GSK,8.0,tablet,0.7,0.5,Cardiac Glycoside,0.25mg,tablet
+Isosorbide,Isosorbide Mononitrate,Isosorbide Mononitrate 20mg,Various,5.0,tablet,1.0,0.7,Antianginal/Nitrate,20mg,tablet
+Imdur,Isosorbide Mononitrate,Isosorbide Mononitrate 60mg,AstraZeneca,18.0,tablet,3.5,2.5,Antianginal/Nitrate,60mg,tablet
+Atorvastatin,Atorvastatin,Atorvastatin 20mg,Various,8.0,tablet,1.6,1.1,Antilipidemic/Statin,20mg,tablet
+Storvas,Atorvastatin,Atorvastatin 20mg,Sun Pharma,12.0,tablet,1.6,1.1,Antilipidemic/Statin,20mg,tablet
+Simvastatin,Simvastatin,Simvastatin 20mg,Various,6.0,tablet,1.2,0.85,Antilipidemic/Statin,20mg,tablet
+Zocor,Simvastatin,Simvastatin 20mg,MSD,22.0,tablet,1.2,0.85,Antilipidemic/Statin,20mg,tablet
+Fenofibrate,Fenofibrate,Fenofibrate 145mg,Various,12.0,tablet,2.5,1.75,Antilipidemic/Fibrate,145mg,tablet
+Tricor,Fenofibrate,Fenofibrate 145mg,Abbott,32.0,tablet,2.5,1.75,Antilipidemic/Fibrate,145mg,tablet
+Ezetimibe,Ezetimibe,Ezetimibe 10mg,Various,18.0,tablet,3.5,2.5,Antilipidemic,10mg,tablet
+Ezetrol,Ezetimibe,Ezetimibe 10mg,MSD,55.0,tablet,3.5,2.5,Antilipidemic,10mg,tablet
+Budesonide,Budesonide,Budesonide 200mcg,Various,35.0,inhaler,8.0,5.5,Corticosteroid/Inhaler,200mcg,inhaler
+Pulmicort,Budesonide,Budesonide 200mcg,AstraZeneca,85.0,inhaler,8.0,5.5,Corticosteroid/Inhaler,200mcg,inhaler
+Fluticasone,Fluticasone,Fluticasone 125mcg,Various,42.0,inhaler,9.0,6.3,Corticosteroid/Inhaler,125mcg,inhaler
+Flixotide,Fluticasone,Fluticasone 125mcg,GSK,98.0,inhaler,9.0,6.3,Corticosteroid/Inhaler,125mcg,inhaler
+Formoterol,Formoterol,Formoterol 12mcg,Various,28.0,inhaler,6.0,4.2,Bronchodilator/LABA,12mcg,inhaler
+Foradil,Formoterol,Formoterol 12mcg,Novartis,65.0,inhaler,6.0,4.2,Bronchodilator/LABA,12mcg,inhaler
+Tiotropium,Tiotropium,Tiotropium 18mcg,Various,48.0,inhaler,10.0,7.0,Bronchodilator/LAMA,18mcg,inhaler
+Spiriva,Tiotropium,Tiotropium 18mcg,Boehringer,185.0,inhaler,10.0,7.0,Bronchodilator/LAMA,18mcg,inhaler
+Ipratropium,Ipratropium,Ipratropium 20mcg,Various,15.0,inhaler,3.0,2.1,Bronchodilator,20mcg,inhaler
+Atrovent,Ipratropium,Ipratropium 20mcg,Boehringer,45.0,inhaler,3.0,2.1,Bronchodilator,20mcg,inhaler
+Theophylline,Theophylline,Theophylline 200mg,Various,5.0,tablet,1.0,0.7,Bronchodilator/Xanthine,200mg,tablet
+Deriphyllin,Theophylline + Etofylline,Theophylline 23mg + Etofylline 77mg,Franco-Indian,4.5,tablet,0.9,0.62,Bronchodilator,combination,tablet
+Ambroxol,Ambroxol,Ambroxol 30mg,Various,4.0,tablet,0.8,0.55,Mucolytic/Expectorant,30mg,tablet
+Mucinac,Acetylcysteine,Acetylcysteine 600mg,Cipla,18.0,tablet,3.5,2.5,Mucolytic,600mg,tablet
+Bromhexine,Bromhexine,Bromhexine 8mg,Various,3.5,tablet,0.7,0.5,Mucolytic/Expectorant,8mg,tablet
+Bisolvon,Bromhexine,Bromhexine 8mg,Boehringer,8.0,tablet,0.7,0.5,Mucolytic/Expectorant,8mg,tablet
+Codeine,Codeine,Codeine 15mg,Various,12.0,tablet,2.5,1.75,Antitussive/Opioid,15mg,tablet
+Benadryl Cough,Diphenhydramine + Ammonium Chloride,Diphenhydramine 14.08mg + Ammonium Chloride 138mg,J&J,6.0,syrup,1.2,0.85,Antitussive/Expectorant,combination,syrup
+Sucralfate,Sucralfate,Sucralfate 1g,Various,8.0,tablet,1.6,1.1,Antiulcer,1g,tablet
+Sucral,Sucralfate,Sucralfate 1g,Elder,14.0,tablet,1.6,1.1,Antiulcer,1g,tablet
+Itopride,Itopride,Itopride 50mg,Various,8.0,tablet,1.6,1.1,Prokinetic,50mg,tablet
+Ganaton,Itopride,Itopride 50mg,Abbott,18.0,tablet,1.6,1.1,Prokinetic,50mg,tablet
+Mesalamine,Mesalamine,Mesalamine 400mg,Various,18.0,tablet,3.5,2.5,Anti-inflammatory/GI,400mg,tablet
+Mesacol,Mesalamine,Mesalamine 400mg,Sun Pharma,32.0,tablet,3.5,2.5,Anti-inflammatory/GI,400mg,tablet
+Lactulose,Lactulose,Lactulose 10g/15ml,Various,12.0,syrup,2.5,1.75,Laxative,10g/15ml,syrup
+Duphalac,Lactulose,Lactulose 10g/15ml,Solvay,22.0,syrup,2.5,1.75,Laxative,10g/15ml,syrup
+Bisacodyl,Bisacodyl,Bisacodyl 5mg,Various,2.5,tablet,0.5,0.35,Laxative,5mg,tablet
+Dulcolax,Bisacodyl,Bisacodyl 5mg,Boehringer,6.0,tablet,0.5,0.35,Laxative,5mg,tablet
+Loperamide,Loperamide,Loperamide 2mg,Various,4.0,tablet,0.8,0.55,Antidiarrheal,2mg,tablet
+Imodium,Loperamide,Loperamide 2mg,J&J,9.0,tablet,0.8,0.55,Antidiarrheal,2mg,tablet
+ORS,Oral Rehydration Salts,Sodium Chloride + Potassium Chloride + Glucose,Various,5.0,sachet,1.0,0.7,Electrolyte Replenisher,WHO formula,sachet
+Electral,Oral Rehydration Salts,Sodium Chloride + Potassium Chloride + Glucose,Franco-Indian,8.0,sachet,1.0,0.7,Electrolyte Replenisher,WHO formula,sachet
+Methotrexate,Methotrexate,Methotrexate 2.5mg,Various,5.0,tablet,1.0,0.7,DMARD/Antimetabolite,2.5mg,tablet
+Folitrax,Methotrexate,Methotrexate 2.5mg,Ipca,8.0,tablet,1.0,0.7,DMARD/Antimetabolite,2.5mg,tablet
+Hydroxychloroquine,Hydroxychloroquine,Hydroxychloroquine 200mg,Various,10.0,tablet,2.0,1.4,DMARD/Antimalarial,200mg,tablet
+Hcqs,Hydroxychloroquine,Hydroxychloroquine 200mg,Ipca,18.0,tablet,2.0,1.4,DMARD/Antimalarial,200mg,tablet
+Sulfasalazine,Sulfasalazine,Sulfasalazine 500mg,Various,8.0,tablet,1.6,1.1,DMARD/Anti-inflammatory,500mg,tablet
+Salazopyrin,Sulfasalazine,Sulfasalazine 500mg,Pfizer,15.0,tablet,1.6,1.1,DMARD/Anti-inflammatory,500mg,tablet
+Chloroquine,Chloroquine,Chloroquine 250mg,Various,5.0,tablet,1.0,0.7,Antimalarial,250mg,tablet
+Malarid,Chloroquine,Chloroquine 250mg,Ipca,8.0,tablet,1.0,0.7,Antimalarial,250mg,tablet
+Artemether,Artemether + Lumefantrine,Artemether 20mg + Lumefantrine 120mg,Various,12.0,tablet,2.5,1.75,Antimalarial,20mg+120mg,tablet
+Coartem,Artemether + Lumefantrine,Artemether 20mg + Lumefantrine 120mg,Novartis,38.0,tablet,2.5,1.75,Antimalarial,20mg+120mg,tablet
+Albendazole,Albendazole,Albendazole 400mg,Various,5.5,tablet,1.1,0.75,Anthelmintic,400mg,tablet
+Zentel,Albendazole,Albendazole 400mg,GSK,12.0,tablet,1.1,0.75,Anthelmintic,400mg,tablet
+Mebendazole,Mebendazole,Mebendazole 100mg,Various,4.0,tablet,0.8,0.55,Anthelmintic,100mg,tablet
+Vermox,Mebendazole,Mebendazole 100mg,J&J,9.0,tablet,0.8,0.55,Anthelmintic,100mg,tablet
+Ivermectin,Ivermectin,Ivermectin 12mg,Various,22.0,tablet,4.5,3.15,Anthelmintic/Antiparasitic,12mg,tablet
+Scabo,Ivermectin,Ivermectin 12mg,Cipla,35.0,tablet,4.5,3.15,Anthelmintic/Antiparasitic,12mg,tablet
+Pregabalin,Pregabalin,Pregabalin 75mg,Various,12.0,capsule,2.5,1.75,Anticonvulsant/Neuropathic pain,75mg,capsule
+Lyrica,Pregabalin,Pregabalin 75mg,Pfizer,42.0,capsule,2.5,1.75,Anticonvulsant/Neuropathic pain,75mg,capsule
+Gabapentin,Gabapentin,Gabapentin 300mg,Various,8.0,capsule,1.6,1.1,Anticonvulsant/Neuropathic pain,300mg,capsule
+Gabapin,Gabapentin,Gabapentin 300mg,Intas,14.0,capsule,1.6,1.1,Anticonvulsant/Neuropathic pain,300mg,capsule
+Levetiracetam,Levetiracetam,Levetiracetam 500mg,Various,18.0,tablet,3.5,2.5,Anticonvulsant,500mg,tablet
+Keppra,Levetiracetam,Levetiracetam 500mg,UCB,75.0,tablet,3.5,2.5,Anticonvulsant,500mg,tablet
+Lamotrigine,Lamotrigine,Lamotrigine 50mg,Various,12.0,tablet,2.5,1.75,Anticonvulsant,50mg,tablet
+Lamitor,Lamotrigine,Lamotrigine 50mg,Torrent,22.0,tablet,2.5,1.75,Anticonvulsant,50mg,tablet
+Fluoxetine,Fluoxetine,Fluoxetine 20mg,Various,6.0,capsule,1.2,0.85,Antidepressant/SSRI,20mg,capsule
+Prodep,Fluoxetine,Fluoxetine 20mg,Sun Pharma,10.0,capsule,1.2,0.85,Antidepressant/SSRI,20mg,capsule
+Paroxetine,Paroxetine,Paroxetine 20mg,Various,8.0,tablet,1.6,1.1,Antidepressant/SSRI,20mg,tablet
+Pexep,Paroxetine,Paroxetine 20mg,Sun Pharma,14.0,tablet,1.6,1.1,Antidepressant/SSRI,20mg,tablet
+Venlafaxine,Venlafaxine,Venlafaxine 75mg,Various,18.0,capsule,3.5,2.5,Antidepressant/SNRI,75mg,capsule
+Venlor,Venlafaxine,Venlafaxine 75mg,Cipla,28.0,capsule,3.5,2.5,Antidepressant/SNRI,75mg,capsule
+Duloxetine,Duloxetine,Duloxetine 30mg,Various,22.0,capsule,4.5,3.15,Antidepressant/SNRI,30mg,capsule
+Duzela,Duloxetine,Duloxetine 30mg,Sun Pharma,38.0,capsule,4.5,3.15,Antidepressant/SNRI,30mg,capsule
+Amitriptyline,Amitriptyline,Amitriptyline 25mg,Various,3.0,tablet,0.6,0.42,Antidepressant/TCA,25mg,tablet
+Amitone,Amitriptyline,Amitriptyline 25mg,Cipla,6.0,tablet,0.6,0.42,Antidepressant/TCA,25mg,tablet
+Olanzapine,Olanzapine,Olanzapine 5mg,Various,8.0,tablet,1.6,1.1,Antipsychotic,5mg,tablet
+Oleanz,Olanzapine,Olanzapine 5mg,Sun Pharma,18.0,tablet,1.6,1.1,Antipsychotic,5mg,tablet
+Risperidone,Risperidone,Risperidone 2mg,Various,5.0,tablet,1.0,0.7,Antipsychotic,2mg,tablet
+Sizodon,Risperidone,Risperidone 2mg,Sun Pharma,12.0,tablet,1.0,0.7,Antipsychotic,2mg,tablet
+Quetiapine,Quetiapine,Quetiapine 100mg,Various,14.0,tablet,2.8,1.95,Antipsychotic,100mg,tablet
+Seroquel,Quetiapine,Quetiapine 100mg,AstraZeneca,55.0,tablet,2.8,1.95,Antipsychotic,100mg,tablet
+Haloperidol,Haloperidol,Haloperidol 5mg,Various,4.0,tablet,0.8,0.55,Antipsychotic,5mg,tablet
+Serenace,Haloperidol,Haloperidol 5mg,RPG Pharma,8.0,tablet,0.8,0.55,Antipsychotic,5mg,tablet
+Lithium,Lithium Carbonate,Lithium Carbonate 300mg,Various,5.0,tablet,1.0,0.7,Mood Stabilizer,300mg,tablet
+Licab,Lithium Carbonate,Lithium Carbonate 300mg,Sun Pharma,9.0,tablet,1.0,0.7,Mood Stabilizer,300mg,tablet
+Donepezil,Donepezil,Donepezil 5mg,Various,28.0,tablet,5.5,3.85,Cholinesterase Inhibitor/Dementia,5mg,tablet
+Aricept,Donepezil,Donepezil 5mg,Eisai,95.0,tablet,5.5,3.85,Cholinesterase Inhibitor/Dementia,5mg,tablet
+Memantine,Memantine,Memantine 10mg,Various,25.0,tablet,5.0,3.5,NMDA Antagonist/Dementia,10mg,tablet
+Admenta,Memantine,Memantine 10mg,Sun Pharma,45.0,tablet,5.0,3.5,NMDA Antagonist/Dementia,10mg,tablet
+Tramadol,Tramadol,Tramadol 50mg,Various,6.0,capsule,1.2,0.85,Opioid Analgesic,50mg,capsule
+Ultracet,Tramadol + Paracetamol,Tramadol 37.5mg + Paracetamol 325mg,J&J,18.0,tablet,3.5,2.5,Opioid Analgesic,37.5mg+325mg,tablet
+Tapentadol,Tapentadol,Tapentadol 50mg,Various,32.0,tablet,6.5,4.55,Opioid Analgesic,50mg,tablet
+Nucynta,Tapentadol,Tapentadol 50mg,Janssen,85.0,tablet,6.5,4.55,Opioid Analgesic,50mg,tablet
+Etoricoxib,Etoricoxib,Etoricoxib 60mg,Various,15.0,tablet,3.0,2.1,Anti-inflammatory/COX-2 Inhibitor,60mg,tablet
+Nucoxia,Etoricoxib,Etoricoxib 60mg,Sun Pharma,28.0,tablet,3.0,2.1,Anti-inflammatory/COX-2 Inhibitor,60mg,tablet
+Celecoxib,Celecoxib,Celecoxib 200mg,Various,18.0,capsule,3.5,2.5,Anti-inflammatory/COX-2 Inhibitor,200mg,capsule
+Celebrex,Celecoxib,Celecoxib 200mg,Pfizer,55.0,capsule,3.5,2.5,Anti-inflammatory/COX-2 Inhibitor,200mg,capsule
+Piroxicam,Piroxicam,Piroxicam 20mg,Various,5.0,capsule,1.0,0.7,Anti-inflammatory/NSAID,20mg,capsule
+Dolonex,Piroxicam,Piroxicam 20mg,Pfizer,12.0,capsule,1.0,0.7,Anti-inflammatory/NSAID,20mg,capsule
+Methocarbamol,Methocarbamol,Methocarbamol 500mg,Various,8.0,tablet,1.6,1.1,Muscle Relaxant,500mg,tablet
+Robinax,Methocarbamol,Methocarbamol 500mg,Pfizer,16.0,tablet,1.6,1.1,Muscle Relaxant,500mg,tablet
+Cyclobenzaprine,Cyclobenzaprine,Cyclobenzaprine 5mg,Various,6.0,tablet,1.2,0.85,Muscle Relaxant,5mg,tablet
+Tizanidine,Tizanidine,Tizanidine 2mg,Various,4.5,tablet,0.9,0.62,Muscle Relaxant,2mg,tablet
+Sirdalud,Tizanidine,Tizanidine 2mg,Novartis,12.0,tablet,0.9,0.62,Muscle Relaxant,2mg,tablet
+Baclofen,Baclofen,Baclofen 10mg,Various,5.0,tablet,1.0,0.7,Muscle Relaxant,10mg,tablet
+Lioresal,Baclofen,Baclofen 10mg,Novartis,15.0,tablet,1.0,0.7,Muscle Relaxant,10mg,tablet
+Chlorzoxazone,Chlorzoxazone,Chlorzoxazone 500mg,Various,4.5,tablet,0.9,0.62,Muscle Relaxant,500mg,tablet
+Parafon,Chlorzoxazone,Chlorzoxazone 500mg,J&J,10.0,tablet,0.9,0.62,Muscle Relaxant,500mg,tablet
+Retinol,Vitamin A,Vitamin A 50000IU,Various,5.0,capsule,1.0,0.7,Vitamin/Supplement,50000IU,capsule
+Vitamin C,Ascorbic Acid,Ascorbic Acid 500mg,Various,2.0,tablet,0.4,0.28,Vitamin/Supplement,500mg,tablet
+Limcee,Ascorbic Acid,Ascorbic Acid 500mg,Abbott,5.0,tablet,0.4,0.28,Vitamin/Supplement,500mg,tablet
+Folic Acid,Folic Acid,Folic Acid 5mg,Various,1.5,tablet,0.3,0.21,Vitamin/Supplement,5mg,tablet
+Dexorange,Iron + Folic Acid + Vitamin B12,Ferric Ammonium Citrate + Folic Acid + Cyanocobalamin,Franco-Indian,8.0,syrup,1.6,1.1,Hematinics,combination,syrup
+Ferrous Sulfate,Ferrous Sulfate,Ferrous Sulfate 200mg,Various,2.5,tablet,0.5,0.35,Hematinics/Iron,200mg,tablet
+Autrin,Ferrous Sulfate + Folic Acid,Ferrous Sulfate 200mg + Folic Acid 0.5mg,Pfizer,5.0,tablet,1.0,0.7,Hematinics,combination,tablet
+Cobadex,Vitamin B12 + Folic Acid,Methylcobalamin 1500mcg + Folic Acid 1.5mg,Sun Pharma,12.0,tablet,2.5,1.75,Vitamin/Supplement,combination,tablet
+Methylcobalamin,Methylcobalamin,Methylcobalamin 500mcg,Various,8.0,tablet,1.6,1.1,Vitamin B12,500mcg,tablet
+Mecobalamin,Methylcobalamin,Methylcobalamin 1500mcg,Various,15.0,tablet,3.0,2.1,Vitamin B12,1500mcg,tablet
+Zinc,Zinc Sulfate,Zinc Sulfate 20mg,Various,3.0,tablet,0.6,0.42,Mineral/Supplement,20mg,tablet
+Zincovit,Multivitamin + Zinc,Multivitamin + Minerals + Zinc,Apex,15.0,tablet,3.0,2.1,Supplement,complex,tablet
+Calcium Carbonate,Calcium Carbonate,Calcium Carbonate 1250mg,Various,4.0,tablet,0.8,0.55,Supplement/Calcium,1250mg,tablet
+Calcimax,Calcium + Vitamin D3 + Zinc,Calcium 500mg + Vit D3 200IU + Zinc 7.5mg,Elder,14.0,tablet,2.8,1.95,Supplement,combination,tablet
+Omega 3,Omega-3 Fatty Acids,EPA + DHA 1000mg,Various,18.0,capsule,3.5,2.5,Supplement,1000mg,capsule
+Neopeptine,Papain + Fungal Diastase,Papain 60mg + Fungal Diastase 100mg,Mankind,8.0,tablet,1.6,1.1,Digestive Enzyme,combination,tablet
+Funzela,Fluconazole,Fluconazole 200mg,Cipla,28.0,tablet,5.5,3.85,Antifungal,200mg,tablet
+Voriconazole,Voriconazole,Voriconazole 200mg,Various,185.0,tablet,38.0,26.5,Antifungal,200mg,tablet
+Vfend,Voriconazole,Voriconazole 200mg,Pfizer,450.0,tablet,38.0,26.5,Antifungal,200mg,tablet
+Clotrimazole,Clotrimazole,Clotrimazole 1%,Various,22.0,cream,4.5,3.15,Antifungal/Topical,1%,cream
+Candid,Clotrimazole,Clotrimazole 1%,Glenmark,35.0,cream,4.5,3.15,Antifungal/Topical,1%,cream
+Miconazole,Miconazole,Miconazole 2%,Various,18.0,cream,3.5,2.5,Antifungal/Topical,2%,cream
+Daktarin,Miconazole,Miconazole 2%,J&J,32.0,cream,3.5,2.5,Antifungal/Topical,2%,cream
+Betamethasone,Betamethasone,Betamethasone 0.1%,Various,15.0,cream,3.0,2.1,Corticosteroid/Topical,0.1%,cream
+Betnovate,Betamethasone,Betamethasone 0.1%,GSK,28.0,cream,3.0,2.1,Corticosteroid/Topical,0.1%,cream
+Hydrocortisone,Hydrocortisone,Hydrocortisone 1%,Various,12.0,cream,2.5,1.75,Corticosteroid/Topical,1%,cream
+Mupirocin,Mupirocin,Mupirocin 2%,Various,28.0,ointment,5.5,3.85,Antibiotic/Topical,2%,ointment
+Bactroban,Mupirocin,Mupirocin 2%,GSK,55.0,ointment,5.5,3.85,Antibiotic/Topical,2%,ointment
+Fusidic Acid,Fusidic Acid,Fusidic Acid 2%,Various,32.0,cream,6.5,4.55,Antibiotic/Topical,2%,cream
+Fucidin,Fusidic Acid,Fusidic Acid 2%,LEO Pharma,65.0,cream,6.5,4.55,Antibiotic/Topical,2%,cream
+Tretinoin,Tretinoin,Tretinoin 0.025%,Various,45.0,cream,9.0,6.3,Retinoid/Topical,0.025%,cream
+Retino-A,Tretinoin,Tretinoin 0.025%,J&J,85.0,cream,9.0,6.3,Retinoid/Topical,0.025%,cream
+Salicylic Acid,Salicylic Acid,Salicylic Acid 6%,Various,22.0,ointment,4.5,3.15,Keratolytic/Topical,6%,ointment
+Calamine,Calamine,Calamine Lotion,Various,18.0,lotion,3.5,2.5,Antipruritic/Topical,calamine,lotion
+Latanoprost,Latanoprost,Latanoprost 0.005%,Various,95.0,eye drops,18.0,12.5,Antiglaucoma,0.005%,eye drops
+Xalatan,Latanoprost,Latanoprost 0.005%,Pfizer,285.0,eye drops,18.0,12.5,Antiglaucoma,0.005%,eye drops
+Timolol,Timolol,Timolol 0.5%,Various,28.0,eye drops,5.5,3.85,Antiglaucoma/Beta-blocker,0.5%,eye drops
+Timoptic,Timolol,Timolol 0.5%,MSD,65.0,eye drops,5.5,3.85,Antiglaucoma/Beta-blocker,0.5%,eye drops
+Ciprofloxacin Eye,Ciprofloxacin,Ciprofloxacin 0.3%,Various,22.0,eye drops,4.5,3.15,Antibiotic/Ophthalmic,0.3%,eye drops
+Moxifloxacin Eye,Moxifloxacin,Moxifloxacin 0.5%,Various,35.0,eye drops,7.0,4.9,Antibiotic/Ophthalmic,0.5%,eye drops
+Vigamox,Moxifloxacin,Moxifloxacin 0.5%,Alcon,85.0,eye drops,7.0,4.9,Antibiotic/Ophthalmic,0.5%,eye drops
+Artificial Tears,Carboxymethylcellulose,Carboxymethylcellulose 0.5%,Various,18.0,eye drops,3.5,2.5,Lubricant/Ophthalmic,0.5%,eye drops
+Refresh,Carboxymethylcellulose,Carboxymethylcellulose 0.5%,Allergan,45.0,eye drops,3.5,2.5,Lubricant/Ophthalmic,0.5%,eye drops
+Dexamethasone Eye,Dexamethasone,Dexamethasone 0.1%,Various,15.0,eye drops,3.0,2.1,Corticosteroid/Ophthalmic,0.1%,eye drops
+Maxidex,Dexamethasone,Dexamethasone 0.1%,Alcon,42.0,eye drops,3.0,2.1,Corticosteroid/Ophthalmic,0.1%,eye drops
+Ondansetron Inj,Ondansetron,Ondansetron 4mg/2ml,Various,18.0,injection,3.5,2.5,Antiemetic,4mg/2ml,injection
+Metoclopramide,Metoclopramide,Metoclopramide 10mg,Various,3.0,tablet,0.6,0.42,Antiemetic/Prokinetic,10mg,tablet
+Perinorm,Metoclopramide,Metoclopramide 10mg,Ipca,6.0,tablet,0.6,0.42,Antiemetic/Prokinetic,10mg,tablet
+Granisetron,Granisetron,Granisetron 1mg,Various,45.0,tablet,9.0,6.3,Antiemetic/5-HT3 Antagonist,1mg,tablet
+Kytril,Granisetron,Granisetron 1mg,Roche,120.0,tablet,9.0,6.3,Antiemetic/5-HT3 Antagonist,1mg,tablet
+Novamox,Amoxicillin,Amoxicillin 250mg,Cipla,8.5,capsule,1.8,1.2,Antibiotic,250mg,capsule
+Zifi,Cefixime,Cefixime 200mg,FDC,33.0,tablet,7.0,4.5,Antibiotic/Cephalosporin,200mg,tablet
+Monocef,Ceftriaxone,Ceftriaxone 1g,Aristo,85.0,injection,18.0,12.0,Antibiotic/Cephalosporin,1g,injection
+Ceftum,Cefuroxime,Cefuroxime 500mg,GSK,78.0,tablet,15.0,10.0,Antibiotic/Cephalosporin,500mg,tablet
+Althrocin,Erythromycin,Erythromycin 500mg,Alembic,18.0,tablet,3.5,2.5,Antibiotic/Macrolide,500mg,tablet
+Clindac A,Clindamycin,Clindamycin 300mg,Galderma,45.0,capsule,9.0,6.0,Antibiotic,300mg,capsule
+Clincin,Clindamycin,Clindamycin 150mg,Cadila,28.0,capsule,5.5,3.8,Antibiotic,150mg,capsule
+Vancoled,Vancomycin,Vancomycin 500mg,Cipla,320.0,injection,65.0,45.0,Antibiotic,500mg,injection
+Meronem,Meropenem,Meropenem 1g,AstraZeneca,850.0,injection,170.0,120.0,Antibiotic,1g,injection
+Rekool,Pantoprazole,Pantoprazole 40mg,Emcure,8.0,tablet,1.5,1.0,Antacid/PPI,40mg,tablet
+Vibramycin,Doxycycline,Doxycycline 100mg,Pfizer,28.0,capsule,1.2,0.8,Antibiotic/Tetracycline,100mg,capsule
+Tavanic,Levofloxacin,Levofloxacin 500mg,Sanofi,85.0,tablet,4.5,3.0,Antibiotic/Fluoroquinolone,500mg,tablet
+Oflox,Ofloxacin,Ofloxacin 200mg,Cipla,7.5,tablet,1.5,1.0,Antibiotic/Fluoroquinolone,200mg,tablet
+Zagam,Sparfloxacin,Sparfloxacin 200mg,Pfizer,32.0,tablet,6.0,4.0,Antibiotic/Fluoroquinolone,200mg,tablet
+Linezolid,Linezolid,Linezolid 600mg,Cipla,180.0,tablet,36.0,25.0,Antibiotic,600mg,tablet
+Zyvox,Linezolid,Linezolid 600mg,Pfizer,850.0,tablet,36.0,25.0,Antibiotic,600mg,tablet
+Colistin,Colistin,Colistin 150mg,Various,450.0,injection,90.0,63.0,Antibiotic,150mg,injection
+Piperacillin-Tazobactam,Piperacillin + Tazobactam,Piperacillin 4g + Tazobactam 500mg,Cipla,480.0,injection,95.0,66.0,Antibiotic,4g+500mg,injection
+Glycomet GP,Metformin + Glipizide,Metformin 500mg + Glipizide 5mg,USV,9.0,tablet,1.8,1.2,Antidiabetic,500mg+5mg,tablet
+Janumet,Sitagliptin + Metformin,Sitagliptin 50mg + Metformin 500mg,MSD,68.0,tablet,14.0,9.5,Antidiabetic/DPP-4 Inhibitor,50mg+500mg,tablet
+Galvus Met,Vildagliptin + Metformin,Vildagliptin 50mg + Metformin 500mg,Novartis,52.0,tablet,10.0,7.0,Antidiabetic,50mg+500mg,tablet
+Onglyza,Saxagliptin,Saxagliptin 5mg,AstraZeneca,65.0,tablet,13.0,9.0,Antidiabetic/DPP-4 Inhibitor,5mg,tablet
+Invokana,Canagliflozin,Canagliflozin 100mg,Janssen,82.0,tablet,16.0,11.0,Antidiabetic/SGLT2 Inhibitor,100mg,tablet
+Trulicity,Dulaglutide,Dulaglutide 1.5mg,Eli Lilly,4800.0,injection,960.0,672.0,Antidiabetic/GLP-1 Agonist,1.5mg,injection
+Ozempic,Semaglutide,Semaglutide 1mg,Novo Nordisk,8500.0,injection,1700.0,1190.0,Antidiabetic/GLP-1 Agonist,1mg,injection
+Victoza,Liraglutide,Liraglutide 1.2mg,Novo Nordisk,5200.0,injection,1040.0,728.0,Antidiabetic/GLP-1 Agonist,1.2mg,injection
+Lantus,Insulin Glargine,Insulin Glargine 100 IU/mL,Sanofi,950.0,injection,190.0,133.0,Antidiabetic/Insulin,100 IU/mL,injection
+Tresiba,Insulin Degludec,Insulin Degludec 100 IU/mL,Novo Nordisk,1850.0,injection,370.0,259.0,Antidiabetic/Insulin,100 IU/mL,injection
+Mixtard,Insulin Human 30/70,Human Insulin 30/70 100 IU/mL,Novo Nordisk,480.0,injection,96.0,67.0,Antidiabetic/Insulin,30/70 100IU/mL,injection
+Actos,Pioglitazone,Pioglitazone 15mg,Takeda,22.0,tablet,4.4,3.08,Antidiabetic/Thiazolidinedione,15mg,tablet
+Pioz,Pioglitazone,Pioglitazone 30mg,Zydus,18.0,tablet,3.6,2.52,Antidiabetic/Thiazolidinedione,30mg,tablet
+Amlovas,Amlodipine,Amlodipine 5mg,Micro Labs,3.5,tablet,0.7,0.49,Antihypertensive/CCB,5mg,tablet
+Felodip,Felodipine,Felodipine 5mg,AstraZeneca,24.0,tablet,4.8,3.36,Antihypertensive/CCB,5mg,tablet
+Dilzem,Diltiazem,Diltiazem 60mg,Torrent,8.0,tablet,1.6,1.12,Antihypertensive/CCB,60mg,tablet
+Vasotec,Enalapril,Enalapril 5mg,MSD,8.5,tablet,1.7,1.19,Antihypertensive/ACE Inhibitor,5mg,tablet
+Envas,Enalapril,Enalapril 5mg,Cadila,5.5,tablet,1.1,0.77,Antihypertensive/ACE Inhibitor,5mg,tablet
+Aceon,Perindopril,Perindopril 4mg,Servier,18.0,tablet,3.6,2.52,Antihypertensive/ACE Inhibitor,4mg,tablet
+Coversyl,Perindopril,Perindopril 5mg,Servier,22.0,tablet,4.4,3.08,Antihypertensive/ACE Inhibitor,5mg,tablet
+Olmecip,Olmesartan,Olmesartan 20mg,Cipla,15.0,tablet,3.0,2.1,Antihypertensive/ARB,20mg,tablet
+Benicar,Olmesartan,Olmesartan 40mg,Daiichi Sankyo,45.0,tablet,3.5,2.45,Antihypertensive/ARB,40mg,tablet
+Valent,Valsartan,Valsartan 80mg,Sun Pharma,14.0,tablet,2.8,1.96,Antihypertensive/ARB,80mg,tablet
+Atcard,Irbesartan,Irbesartan 150mg,Sun Pharma,18.0,tablet,3.6,2.52,Antihypertensive/ARB,150mg,tablet
+Avapro,Irbesartan,Irbesartan 300mg,Sanofi,65.0,tablet,4.5,3.15,Antihypertensive/ARB,300mg,tablet
+Betaloc,Metoprolol,Metoprolol 50mg,AstraZeneca,18.0,tablet,0.9,0.63,Antihypertensive/Beta-blocker,50mg,tablet
+Coreg,Carvedilol,Carvedilol 12.5mg,GSK,28.0,tablet,1.8,1.26,Antihypertensive/Beta-blocker,12.5mg,tablet
+Bystolic,Nebivolol,Nebivolol 5mg,Forest Labs,55.0,tablet,2.4,1.68,Antihypertensive/Beta-blocker,5mg,tablet
+Minipress,Prazosin,Prazosin 1mg,Pfizer,8.5,tablet,1.7,1.19,Alpha Blocker/Antihypertensive,1mg,tablet
+Clonidine,Clonidine,Clonidine 0.1mg,Boehringer Ingelheim,6.0,tablet,1.2,0.84,Antihypertensive/Central,0.1mg,tablet
+Isosorbide Dinitrate,Isosorbide Dinitrate,Isosorbide Dinitrate 10mg,Various,2.0,tablet,0.4,0.28,Antianginal/Nitrate,10mg,tablet
+Sorbitrate,Isosorbide Dinitrate,Isosorbide Dinitrate 10mg,Abbott,6.5,tablet,0.4,0.28,Antianginal/Nitrate,10mg,tablet
+Nitroglycerin,Nitroglycerin,Nitroglycerin 0.5mg,Various,4.5,tablet,0.9,0.63,Antianginal/Nitrate,0.5mg,tablet
+Dronedarone,Dronedarone,Dronedarone 400mg,Sanofi,145.0,tablet,29.0,20.3,Antiarrhythmic,400mg,tablet
+Amiodarone,Amiodarone,Amiodarone 200mg,Sun Pharma,12.0,tablet,2.4,1.68,Antiarrhythmic,200mg,tablet
+Cordarone,Amiodarone,Amiodarone 200mg,Sanofi,45.0,tablet,2.4,1.68,Antiarrhythmic,200mg,tablet
+Ivabradine,Ivabradine,Ivabradine 5mg,Servier,28.0,tablet,5.6,3.92,Antianginal/HCN channel blocker,5mg,tablet
+Procoralan,Ivabradine,Ivabradine 7.5mg,Servier,38.0,tablet,7.6,5.32,Antianginal/HCN channel blocker,7.5mg,tablet
+Sacubitril + Valsartan,Sacubitril + Valsartan,Sacubitril 50mg + Valsartan 51mg,Novartis,185.0,tablet,37.0,25.9,Heart Failure/Neprilysin Inhibitor,50mg+51mg,tablet
+Entresto,Sacubitril + Valsartan,Sacubitril 97mg + Valsartan 103mg,Novartis,285.0,tablet,57.0,39.9,Heart Failure/Neprilysin Inhibitor,97mg+103mg,tablet
+Verquvo,Vericiguat,Vericiguat 10mg,Bayer,320.0,tablet,64.0,44.8,Heart Failure,10mg,tablet
+Simvotin,Simvastatin,Simvastatin 10mg,Cipla,7.5,tablet,1.0,0.7,Antilipidemic/Statin,10mg,tablet
+Pravastatin,Pravastatin,Pravastatin 40mg,Sun Pharma,14.0,tablet,2.8,1.96,Antilipidemic/Statin,40mg,tablet
+Fluvastatin,Fluvastatin,Fluvastatin 40mg,Novartis,28.0,capsule,5.6,3.92,Antilipidemic/Statin,40mg,capsule
+Ezentia,Ezetimibe,Ezetimibe 10mg,Sun Pharma,22.0,tablet,4.4,3.08,Antilipidemic/Cholesterol Absorption Inhibitor,10mg,tablet
+Gemfibrozil,Gemfibrozil,Gemfibrozil 600mg,Cipla,8.5,tablet,1.7,1.19,Antilipidemic/Fibrate,600mg,tablet
+Lopid,Gemfibrozil,Gemfibrozil 600mg,Pfizer,25.0,tablet,1.7,1.19,Antilipidemic/Fibrate,600mg,tablet
+Lipanthyl,Fenofibrate,Fenofibrate 160mg,Abbott,32.0,tablet,6.4,4.48,Antilipidemic/Fibrate,160mg,tablet
+Praluent,Alirocumab,Alirocumab 75mg,Sanofi,8500.0,injection,1700.0,1190.0,Antilipidemic/PCSK9 Inhibitor,75mg,injection
+Repatha,Evolocumab,Evolocumab 140mg,Amgen,9500.0,injection,1900.0,1330.0,Antilipidemic/PCSK9 Inhibitor,140mg,injection
+Duolin,Ipratropium + Salbutamol,Ipratropium 20mcg + Salbutamol 100mcg,Cipla,145.0,inhaler,29.0,20.3,Bronchodilator,20mcg+100mcg,inhaler
+Seretide,Salmeterol + Fluticasone,Salmeterol 25mcg + Fluticasone 250mcg,GSK,580.0,inhaler,116.0,81.2,Bronchodilator/Corticosteroid,25mcg+250mcg,inhaler
+Foracort,Formoterol + Budesonide,Formoterol 6mcg + Budesonide 200mcg,Cipla,320.0,inhaler,64.0,44.8,Bronchodilator/Corticosteroid,6mcg+200mcg,inhaler
+Symbicort,Formoterol + Budesonide,Formoterol 6mcg + Budesonide 160mcg,AstraZeneca,650.0,inhaler,130.0,91.0,Bronchodilator/Corticosteroid,6mcg+160mcg,inhaler
+Onbrez,Indacaterol,Indacaterol 150mcg,Novartis,480.0,inhaler,96.0,67.2,Bronchodilator/LABA,150mcg,inhaler
+Roflumilast,Roflumilast,Roflumilast 500mcg,AstraZeneca,85.0,tablet,17.0,11.9,Antiasthmatic/PDE4 Inhibitor,500mcg,tablet
+Daliresp,Roflumilast,Roflumilast 500mcg,Nycomed,120.0,tablet,17.0,11.9,Antiasthmatic/PDE4 Inhibitor,500mcg,tablet
+Solvin,Bromhexine,Bromhexine 8mg,Boehringer Ingelheim,5.5,tablet,1.1,0.77,Mucolytic,8mg,tablet
+Alex,Levocetrizine + Ambroxol,Levocetrizine 2.5mg + Ambroxol 30mg,Glenmark,7.5,tablet,1.5,1.05,Antihistamine/Mucolytic,2.5mg+30mg,tablet
+Lexapro,Escitalopram,Escitalopram 10mg,Lundbeck,48.0,tablet,1.7,1.19,Antidepressant/SSRI,10mg,tablet
+Prozac,Fluoxetine,Fluoxetine 20mg,Eli Lilly,35.0,capsule,2.0,1.4,Antidepressant/SSRI,20mg,capsule
+Fludac,Fluoxetine,Fluoxetine 20mg,Cadila,8.5,capsule,2.0,1.4,Antidepressant/SSRI,20mg,capsule
+Paxil,Paroxetine,Paroxetine 20mg,GSK,38.0,tablet,2.5,1.75,Antidepressant/SSRI,20mg,tablet
+Sertraline,Sertraline,Sertraline 50mg,Various,6.0,tablet,1.2,0.84,Antidepressant/SSRI,50mg,tablet
+Fluvoxamine,Fluvoxamine,Fluvoxamine 50mg,Abbott,22.0,tablet,4.4,3.08,Antidepressant/SSRI,50mg,tablet
+Cymbalta,Duloxetine,Duloxetine 60mg,Eli Lilly,95.0,capsule,6.5,4.55,Antidepressant/SNRI,60mg,capsule
+Duvanta,Duloxetine,Duloxetine 30mg,Sun Pharma,35.0,capsule,4.5,3.15,Antidepressant/SNRI,30mg,capsule
+Effexor,Venlafaxine,Venlafaxine 75mg,Pfizer,52.0,tablet,4.5,3.15,Antidepressant/SNRI,75mg,tablet
+Veniz,Venlafaxine,Venlafaxine 37.5mg,Sun Pharma,22.0,tablet,3.0,2.1,Antidepressant/SNRI,37.5mg,tablet
+Remeron,Mirtazapine,Mirtazapine 30mg,Organon,48.0,tablet,4.0,2.8,Antidepressant/NaSSA,30mg,tablet
+Bupropion,Bupropion,Bupropion 150mg,Sun Pharma,28.0,tablet,5.6,3.92,Antidepressant/NDRI,150mg,tablet
+Wellbutrin,Bupropion,Bupropion 150mg,GSK,85.0,tablet,5.6,3.92,Antidepressant/NDRI,150mg,tablet
+Trazodone,Trazodone,Trazodone 50mg,Sun Pharma,12.0,tablet,2.4,1.68,Antidepressant/SARI,50mg,tablet
+Imipramine,Imipramine,Imipramine 25mg,Sun Pharma,3.5,tablet,0.7,0.49,Antidepressant/TCA,25mg,tablet
+Tofranil,Imipramine,Imipramine 25mg,Novartis,18.0,tablet,0.7,0.49,Antidepressant/TCA,25mg,tablet
+Nortriptyline,Nortriptyline,Nortriptyline 25mg,Sun Pharma,5.0,tablet,1.0,0.7,Antidepressant/TCA,25mg,tablet
+Risperdal,Risperidone,Risperidone 2mg,Janssen,48.0,tablet,1.7,1.19,Antipsychotic,2mg,tablet
+Zyprexa,Olanzapine,Olanzapine 10mg,Eli Lilly,85.0,tablet,2.4,1.68,Antipsychotic,10mg,tablet
+Aripiprazole,Aripiprazole,Aripiprazole 10mg,Sun Pharma,22.0,tablet,4.4,3.08,Antipsychotic,10mg,tablet
+Abilify,Aripiprazole,Aripiprazole 15mg,Otsuka,185.0,tablet,5.0,3.5,Antipsychotic,15mg,tablet
+Clozapine,Clozapine,Clozapine 100mg,Sun Pharma,8.0,tablet,1.6,1.12,Antipsychotic,100mg,tablet
+Leponex,Clozapine,Clozapine 100mg,Novartis,35.0,tablet,1.6,1.12,Antipsychotic,100mg,tablet
+Lithosun,Lithium,Lithium 300mg,Sun Pharma,3.5,tablet,0.7,0.49,Mood Stabilizer,300mg,tablet
+Epilim,Valproate,Sodium Valproate 500mg,Sanofi,15.0,tablet,3.0,2.1,Mood Stabilizer/Anticonvulsant,500mg,tablet
+Lamictal,Lamotrigine,Lamotrigine 50mg,GSK,35.0,tablet,3.0,2.1,Anticonvulsant,50mg,tablet
+Trileptal,Oxcarbazepine,Oxcarbazepine 300mg,Novartis,48.0,tablet,3.6,2.52,Anticonvulsant,300mg,tablet
+Topamax,Topiramate,Topiramate 50mg,Janssen,45.0,tablet,9.0,6.3,Anticonvulsant,50mg,tablet
+Topamac,Topiramate,Topiramate 25mg,Janssen,28.0,tablet,5.6,3.92,Anticonvulsant,25mg,tablet
+Neurontin,Gabapentin,Gabapentin 300mg,Pfizer,38.0,capsule,2.4,1.68,Anticonvulsant/Neuropathic pain,300mg,capsule
+Alprazolam,Alprazolam,Alprazolam 0.25mg,Sun Pharma,2.5,tablet,0.5,0.35,Anxiolytic,0.25mg,tablet
+Xanax,Alprazolam,Alprazolam 0.5mg,Pfizer,8.5,tablet,0.6,0.42,Anxiolytic,0.5mg,tablet
+Diazepam,Diazepam,Diazepam 5mg,Various,1.5,tablet,0.3,0.21,Anxiolytic,5mg,tablet
+Clonazepam,Clonazepam,Clonazepam 0.5mg,Sun Pharma,3.5,tablet,0.7,0.49,Anxiolytic/Anticonvulsant,0.5mg,tablet
+Rivotril,Clonazepam,Clonazepam 0.5mg,Roche,12.0,tablet,0.7,0.49,Anxiolytic/Anticonvulsant,0.5mg,tablet
+Brotizolam,Brotizolam,Brotizolam 0.25mg,Sun Pharma,8.0,tablet,1.6,1.12,Sedative/Hypnotic,0.25mg,tablet
+Zolpidem,Zolpidem,Zolpidem 10mg,Sun Pharma,12.0,tablet,2.4,1.68,Sedative/Hypnotic,10mg,tablet
+Stilnoct,Zolpidem,Zolpidem 10mg,Sanofi,35.0,tablet,2.4,1.68,Sedative/Hypnotic,10mg,tablet
+Namenda,Memantine,Memantine 10mg,Forest Labs,65.0,tablet,3.6,2.52,NMDA Antagonist/Dementia,10mg,tablet
+Pramipexole,Pramipexole,Pramipexole 0.5mg,Boehringer Ingelheim,28.0,tablet,5.6,3.92,Antiparkinsonian/Dopamine Agonist,0.5mg,tablet
+Ropinirole,Ropinirole,Ropinirole 1mg,GSK,22.0,tablet,4.4,3.08,Antiparkinsonian/Dopamine Agonist,1mg,tablet
+Raciper,Esomeprazole,Esomeprazole 40mg,Sun Pharma,18.0,tablet,2.5,1.75,Antacid/PPI,40mg,tablet
+Lansoprazole,Lansoprazole,Lansoprazole 30mg,Sun Pharma,7.0,capsule,1.4,0.98,Antacid/PPI,30mg,capsule
+Famotidine,Famotidine,Famotidine 40mg,Sun Pharma,4.5,tablet,0.9,0.63,Antacid/H2 Blocker,40mg,tablet
+Pepcid,Famotidine,Famotidine 40mg,Janssen,22.0,tablet,0.9,0.63,Antacid/H2 Blocker,40mg,tablet
+Carafate,Sucralfate,Sucralfate 1g,Axcan,18.0,tablet,1.0,0.7,Antiulcer,1g,tablet
+Misoprostol,Misoprostol,Misoprostol 200mcg,Cipla,18.0,tablet,3.6,2.52,Antiulcer/Prostaglandin,200mcg,tablet
+Cytotec,Misoprostol,Misoprostol 200mcg,Pfizer,42.0,tablet,3.6,2.52,Antiulcer/Prostaglandin,200mcg,tablet
+Ondansetron,Ondansetron,Ondansetron 4mg,Sun Pharma,8.5,tablet,1.7,1.19,Antiemetic/5-HT3 Antagonist,4mg,tablet
+Vomikind,Ondansetron,Ondansetron 4mg,Mankind,4.5,tablet,0.9,0.63,Antiemetic/5-HT3 Antagonist,4mg,tablet
+Reglan,Metoclopramide,Metoclopramide 10mg,Pfizer,10.0,tablet,0.5,0.35,Prokinetic/Antiemetic,10mg,tablet
+Cremaffin,Liquid Paraffin + Milk of Magnesia,Liquid Paraffin + MOM,Abbott,4.5,syrup,0.9,0.63,Laxative,combo,syrup
+Movicol,Macrogol,Macrogol 3350 with electrolytes,Norgine,28.0,powder,5.6,3.92,Laxative/Osmotic,13.8g,powder
+Eldoper,Loperamide,Loperamide 2mg,Cipla,3.5,capsule,0.7,0.49,Antidiarrheal,2mg,capsule
+Rifagut,Rifaximin,Rifaximin 400mg,Sun Pharma,45.0,tablet,9.0,6.3,Antibiotic/GI,400mg,tablet
+Xifaxan,Rifaximin,Rifaximin 550mg,Salix,145.0,tablet,11.0,7.7,Antibiotic/GI,550mg,tablet
+Asacol,Mesalazine,Mesalazine 400mg,Tillotts,68.0,tablet,5.6,3.92,Anti-inflammatory/GI,400mg,tablet
+Azathioprine,Azathioprine,Azathioprine 50mg,Sun Pharma,18.0,tablet,3.6,2.52,Immunosuppressant/GI,50mg,tablet
+Imuran,Azathioprine,Azathioprine 50mg,Aspen,65.0,tablet,3.6,2.52,Immunosuppressant/GI,50mg,tablet
+Creon,Pancreatin,Pancreatin 25000 IU,Solvay,28.0,capsule,5.6,3.92,Digestive Enzyme,25000 IU,capsule
+Panzytrat,Pancreatin,Pancreatin 10000 IU,Loba Chemie,18.0,capsule,3.6,2.52,Digestive Enzyme,10000 IU,capsule
+Arcoxia,Etoricoxib,Etoricoxib 120mg,MSD,45.0,tablet,9.0,6.3,Anti-inflammatory/COX-2 Inhibitor,120mg,tablet
+Naproxen,Naproxen,Naproxen 500mg,Sun Pharma,6.5,tablet,1.3,0.91,Analgesic/NSAID,500mg,tablet
+Naprosyn,Naproxen,Naproxen 500mg,Roche,22.0,tablet,1.3,0.91,Analgesic/NSAID,500mg,tablet
+Aceclofenac,Aceclofenac,Aceclofenac 100mg,Sun Pharma,5.5,tablet,1.1,0.77,Analgesic/NSAID,100mg,tablet
+Nimesulide,Nimesulide,Nimesulide 100mg,Cipla,4.5,tablet,0.9,0.63,Analgesic/NSAID,100mg,tablet
+Nise,Nimesulide,Nimesulide 100mg,Dr. Reddy's,5.5,tablet,0.9,0.63,Analgesic/NSAID,100mg,tablet
+Feldene,Piroxicam,Piroxicam 20mg,Pfizer,18.0,capsule,0.7,0.49,Analgesic/NSAID,20mg,capsule
+Meftal-P,Mefenamic Acid + Paracetamol,Mefenamic Acid 250mg + Paracetamol 325mg,Blue Cross,7.5,tablet,1.5,1.05,Analgesic/NSAID,250mg+325mg,tablet
+Spasmoproxyvon,Dicyclomine + Paracetamol,Dicyclomine 10mg + Paracetamol 500mg,Wockhardt,6.5,tablet,1.3,0.91,Antispasmodic/Analgesic,10mg+500mg,tablet
+Methylprednisolone,Methylprednisolone,Methylprednisolone 4mg,Pfizer,18.0,tablet,3.6,2.52,Corticosteroid,4mg,tablet
+Medrol,Methylprednisolone,Methylprednisolone 16mg,Pfizer,48.0,tablet,9.6,6.72,Corticosteroid,16mg,tablet
+Dexamethasone,Dexamethasone,Dexamethasone 4mg,Sun Pharma,5.5,tablet,1.1,0.77,Corticosteroid,4mg,tablet
+Decadron,Dexamethasone,Dexamethasone 0.5mg,MSD,3.5,tablet,0.7,0.49,Corticosteroid,0.5mg,tablet
+Betnesol,Betamethasone,Betamethasone 0.5mg,GSK,8.5,tablet,1.7,1.19,Corticosteroid,0.5mg,tablet
+Febuxostat,Febuxostat,Febuxostat 40mg,Sun Pharma,28.0,tablet,5.6,3.92,Antigout,40mg,tablet
+Adenuric,Febuxostat,Febuxostat 80mg,Menarini,55.0,tablet,8.0,5.6,Antigout,80mg,tablet
+Benzbromarone,Benzbromarone,Benzbromarone 100mg,Sun Pharma,38.0,tablet,7.6,5.32,Antigout/Uricosuric,100mg,tablet
+Coumadin,Warfarin,Warfarin 5mg,Bristol-Myers Squibb,18.0,tablet,0.9,0.63,Anticoagulant,5mg,tablet
+Xarelto,Rivaroxaban,Rivaroxaban 20mg,Bayer,185.0,tablet,37.0,25.9,Anticoagulant/DOAC,20mg,tablet
+Eliquis,Apixaban,Apixaban 5mg,Bristol-Myers Squibb,145.0,tablet,29.0,20.3,Anticoagulant/DOAC,5mg,tablet
+Pradaxa,Dabigatran,Dabigatran 150mg,Boehringer Ingelheim,155.0,capsule,31.0,21.7,Anticoagulant/DOAC,150mg,capsule
+Lovenox,Enoxaparin,Enoxaparin 40mg,Sanofi,285.0,injection,57.0,39.9,Anticoagulant/LMWH,40mg,injection
+Heparin,Heparin,Heparin 5000 IU/mL,Claris Lifesciences,85.0,injection,17.0,11.9,Anticoagulant,5000 IU/mL,injection
+Plavix,Clopidogrel,Clopidogrel 75mg,Sanofi,35.0,tablet,3.5,2.45,Antiplatelet,75mg,tablet
+Ticagrelor,Ticagrelor,Ticagrelor 90mg,AstraZeneca,185.0,tablet,37.0,25.9,Antiplatelet,90mg,tablet
+Brilinta,Ticagrelor,Ticagrelor 90mg,AstraZeneca,225.0,tablet,37.0,25.9,Antiplatelet,90mg,tablet
+Prasugrel,Prasugrel,Prasugrel 10mg,Eli Lilly,145.0,tablet,29.0,20.3,Antiplatelet,10mg,tablet
+Erythropoietin,Erythropoietin,Erythropoietin 4000 IU,Emcure,480.0,injection,96.0,67.2,Hematinics/ESA,4000 IU,injection
+Ferrochelate,Ferrous Fumarate,Ferrous Fumarate 152mg,Sun Pharma,4.5,tablet,0.9,0.63,Hematinics/Iron,152mg,tablet
+Fefol,Ferrous Sulphate + Folic Acid,Ferrous Sulphate 150mg + Folic Acid 0.5mg,GSK,3.5,capsule,0.7,0.49,Hematinics,150mg+0.5mg,capsule
+Ferinject,Ferric Carboxymaltose,Ferric Carboxymaltose 500mg,Vifor Pharma,3800.0,injection,760.0,532.0,Hematinics/IV Iron,500mg,injection
+Levothyroxine,Levothyroxine,Levothyroxine 50mcg,Sun Pharma,3.0,tablet,0.6,0.42,Thyroid,50mcg,tablet
+Carbimazole,Carbimazole,Carbimazole 10mg,Nicholas Piramal,8.5,tablet,1.7,1.19,Antithyroid,10mg,tablet
+Neomercazole,Carbimazole,Carbimazole 5mg,Roche,12.0,tablet,1.2,0.84,Antithyroid,5mg,tablet
+Propylthiouracil,Propylthiouracil,Propylthiouracil 50mg,Sun Pharma,6.5,tablet,1.3,0.91,Antithyroid,50mg,tablet
+Premarin,Conjugated Estrogen,Conjugated Estrogen 0.625mg,Pfizer,18.0,tablet,3.6,2.52,Hormonal/HRT,0.625mg,tablet
+Progynova,Estradiol Valerate,Estradiol Valerate 2mg,Bayer,12.0,tablet,2.4,1.68,Hormonal/HRT,2mg,tablet
+Utrogestan,Progesterone,Progesterone 200mg,Besins,85.0,capsule,17.0,11.9,Hormonal/Progesterone,200mg,capsule
+Duphaston,Dydrogesterone,Dydrogesterone 10mg,Abbott,28.0,tablet,5.6,3.92,Hormonal/Progestogen,10mg,tablet
+Ovral,Norgestrel + Ethinylestradiol,Norgestrel 0.5mg + EE 0.05mg,Wyeth,8.5,tablet,1.7,1.19,Oral Contraceptive,0.5mg+0.05mg,tablet
+Yasmin,Drospirenone + Ethinylestradiol,Drospirenone 3mg + EE 0.03mg,Bayer,18.0,tablet,3.6,2.52,Oral Contraceptive,3mg+0.03mg,tablet
+Femilon,Desogestrel + Ethinylestradiol,Desogestrel 0.15mg + EE 0.02mg,Organon,12.0,tablet,2.4,1.68,Oral Contraceptive,0.15mg+0.02mg,tablet
+Mifepristone,Mifepristone,Mifepristone 200mg,Sun Pharma,185.0,tablet,37.0,25.9,Hormonal/Abortifacient,200mg,tablet
+Testosterone,Testosterone Enanthate,Testosterone Enanthate 250mg/mL,Sun Pharma,180.0,injection,36.0,25.2,Androgen,250mg/mL,injection
+Danazol,Danazol,Danazol 100mg,Sun Pharma,22.0,capsule,4.4,3.08,Hormonal/Androgen,100mg,capsule
+Viraday,Efavirenz + Emtricitabine + TDF,EFV 600mg + FTC 200mg + TDF 300mg,Cipla,55.0,tablet,11.0,7.7,Antiviral/HIV,600+200+300mg,tablet
+Tenofovir,Tenofovir Disoproxil Fumarate,TDF 300mg,Cipla,18.0,tablet,3.6,2.52,Antiviral/HIV,300mg,tablet
+Lamivudine,Lamivudine,Lamivudine 150mg,Cipla,8.5,tablet,1.7,1.19,Antiviral/HIV,150mg,tablet
+Lopinavir + Ritonavir,Lopinavir + Ritonavir,Lopinavir 200mg + Ritonavir 50mg,Abbott,65.0,tablet,13.0,9.1,Antiviral/HIV,200mg+50mg,tablet
+Dolutegravir,Dolutegravir,Dolutegravir 50mg,ViiV Healthcare,85.0,tablet,17.0,11.9,Antiviral/HIV/Integrase Inhibitor,50mg,tablet
+Acivir,Acyclovir,Acyclovir 400mg,Cipla,8.5,tablet,1.7,1.19,Antiviral/Herpes,400mg,tablet
+Valacyclovir,Valacyclovir,Valacyclovir 500mg,Sun Pharma,28.0,tablet,5.6,3.92,Antiviral/Herpes,500mg,tablet
+Valtrex,Valacyclovir,Valacyclovir 500mg,GSK,95.0,tablet,5.6,3.92,Antiviral/Herpes,500mg,tablet
+Oseltamivir,Oseltamivir,Oseltamivir 75mg,Sun Pharma,48.0,capsule,9.6,6.72,Antiviral/Influenza,75mg,capsule
+Tamiflu,Oseltamivir,Oseltamivir 75mg,Roche,285.0,capsule,9.6,6.72,Antiviral/Influenza,75mg,capsule
+Sofosbuvir,Sofosbuvir,Sofosbuvir 400mg,Cipla,185.0,tablet,37.0,25.9,Antiviral/Hepatitis C,400mg,tablet
+Sovaldi,Sofosbuvir,Sofosbuvir 400mg,Gilead,22000.0,tablet,37.0,25.9,Antiviral/Hepatitis C,400mg,tablet
+Hepcinat,Sofosbuvir + Ledipasvir,Sofosbuvir 400mg + Ledipasvir 90mg,Natco,850.0,tablet,170.0,119.0,Antiviral/Hepatitis C,400mg+90mg,tablet
+Entecavir,Entecavir,Entecavir 0.5mg,Sun Pharma,48.0,tablet,9.6,6.72,Antiviral/Hepatitis B,0.5mg,tablet
+Baraclude,Entecavir,Entecavir 0.5mg,Bristol-Myers Squibb,185.0,tablet,9.6,6.72,Antiviral/Hepatitis B,0.5mg,tablet
+Remdesivir,Remdesivir,Remdesivir 100mg,Cipla,2800.0,injection,560.0,392.0,Antiviral,100mg,injection
+Rifampicin,Rifampicin,Rifampicin 450mg,Cipla,8.5,capsule,1.7,1.19,Antitubercular,450mg,capsule
+Akurit,Rifampicin + Isoniazid + PZA,Rifampicin 150mg + INH 75mg + PZA 400mg,Lupin,18.0,tablet,3.6,2.52,Antitubercular,combo,tablet
+Isoniazid,Isoniazid,Isoniazid 300mg,Sun Pharma,2.5,tablet,0.5,0.35,Antitubercular,300mg,tablet
+Pyrazinamide,Pyrazinamide,Pyrazinamide 750mg,Sun Pharma,5.5,tablet,1.1,0.77,Antitubercular,750mg,tablet
+Ethambutol,Ethambutol,Ethambutol 800mg,Sun Pharma,8.5,tablet,1.7,1.19,Antitubercular,800mg,tablet
+Streptomycin,Streptomycin,Streptomycin 1g,Pfizer,85.0,injection,17.0,11.9,Antitubercular/Aminoglycoside,1g,injection
+Capreomycin,Capreomycin,Capreomycin 1g,Eli Lilly,1850.0,injection,370.0,259.0,Antitubercular,1g,injection
+Bedaquiline,Bedaquiline,Bedaquiline 100mg,Janssen,4800.0,tablet,960.0,672.0,Antitubercular/MDR-TB,100mg,tablet
+Diflucan,Fluconazole,Fluconazole 150mg,Pfizer,45.0,capsule,2.4,1.68,Antifungal,150mg,capsule
+Itraconazole,Itraconazole,Itraconazole 100mg,Sun Pharma,28.0,capsule,5.6,3.92,Antifungal,100mg,capsule
+Caspofungin,Caspofungin,Caspofungin 50mg,MSD,5800.0,injection,1160.0,812.0,Antifungal/Echinocandin,50mg,injection
+Amphotericin B,Amphotericin B,Amphotericin B 50mg,BMS,280.0,injection,56.0,39.2,Antifungal/Polyene,50mg,injection
+Terbinafine,Terbinafine,Terbinafine 250mg,Novartis,22.0,tablet,4.4,3.08,Antifungal,250mg,tablet
+Lamisil,Terbinafine,Terbinafine 250mg,Novartis,75.0,tablet,4.4,3.08,Antifungal,250mg,tablet
+Ketoconazole,Ketoconazole,Ketoconazole 200mg,Cipla,12.0,tablet,2.4,1.68,Antifungal,200mg,tablet
+Nizoral,Ketoconazole,Ketoconazole 200mg,Janssen,35.0,tablet,2.4,1.68,Antifungal,200mg,tablet
+Plaquenil,Hydroxychloroquine,Hydroxychloroquine 200mg,Sanofi,38.0,tablet,1.7,1.19,DMARD/Antimalarial,200mg,tablet
+Leflunomide,Leflunomide,Leflunomide 20mg,Sun Pharma,28.0,tablet,5.6,3.92,DMARD,20mg,tablet
+Arava,Leflunomide,Leflunomide 20mg,Sanofi,85.0,tablet,5.6,3.92,DMARD,20mg,tablet
+Rituximab,Rituximab,Rituximab 500mg,Roche,38000.0,injection,7600.0,5320.0,Biologic DMARD/Anti-CD20,500mg,injection
+Reditux,Rituximab,Rituximab 500mg,Dr. Reddy's,12000.0,injection,2400.0,1680.0,Biologic DMARD/Anti-CD20,500mg,injection
+Adalimumab,Adalimumab,Adalimumab 40mg,AbbVie,48000.0,injection,9600.0,6720.0,Biologic DMARD/Anti-TNF,40mg,injection
+Exemptia,Adalimumab,Adalimumab 40mg,Zydus,18000.0,injection,3600.0,2520.0,Biologic DMARD/Anti-TNF,40mg,injection
+Etanercept,Etanercept,Etanercept 25mg,Pfizer,18000.0,injection,3600.0,2520.0,Biologic DMARD/Anti-TNF,25mg,injection
+Tocilizumab,Tocilizumab,Tocilizumab 400mg,Roche,45000.0,injection,9000.0,6300.0,Biologic DMARD/Anti-IL6,400mg,injection
+Zofran Injection,Ondansetron,Ondansetron 8mg/4mL,GSK,85.0,injection,17.0,11.9,Antiemetic/5-HT3 Antagonist,8mg/4mL,injection
+Filgrastim,Filgrastim,Filgrastim 300mcg,Dr. Reddy's,3500.0,injection,700.0,490.0,Hematinics/G-CSF,300mcg,injection
+Neupogen,Filgrastim,Filgrastim 300mcg,Amgen,8500.0,injection,700.0,490.0,Hematinics/G-CSF,300mcg,injection
+Zoledronic Acid,Zoledronic Acid,Zoledronic Acid 4mg,Sun Pharma,1800.0,injection,360.0,252.0,Bisphosphonate,4mg,injection
+Zometa,Zoledronic Acid,Zoledronic Acid 4mg,Novartis,8500.0,injection,360.0,252.0,Bisphosphonate,4mg,injection
+Leucovorin,Leucovorin,Leucovorin 15mg,Sun Pharma,28.0,tablet,5.6,3.92,Cytoprotective/Folate,15mg,tablet
+Mesna,Mesna,Mesna 400mg,Baxter,280.0,injection,56.0,39.2,Cytoprotective/Urothelial,400mg,injection
+Vitamin D3,Cholecalciferol,Cholecalciferol 60000 IU,Sun Pharma,18.0,capsule,3.6,2.52,Vitamin/Supplement,60000 IU,capsule
+Nurokind,Methylcobalamin,Methylcobalamin 1500mcg,Mankind,8.5,tablet,1.7,1.19,Vitamin B12,1500mcg,tablet
+Omega-3,Omega-3 Fatty Acids,EPA 180mg + DHA 120mg,Various,8.5,capsule,1.7,1.19,Supplement/Omega-3,300mg,capsule
+Evion,Vitamin E,Vitamin E 400 IU,Merck,5.5,capsule,1.1,0.77,Vitamin/Supplement,400 IU,capsule
+Zincolak,Zinc + Vitamin C,Zinc 10mg + Vit C 40mg,Various,2.5,tablet,0.5,0.35,Mineral/Supplement,combo,tablet
+Protinex,Protein Supplement,Hydrolysed Protein 30g/serving,Danone,28.0,powder,5.6,3.92,Supplement/Protein,30g/serving,powder
+Ensure,Protein + Vitamins,Complete nutritional supplement,Abbott,85.0,powder,17.0,11.9,Supplement/Nutritional,per serving,powder
+Timoptol,Timolol,Timolol 0.5% eye drops,MSD,95.0,drops,11.0,7.7,Antiglaucoma/Beta-blocker,0.5%,drops
+Bimatoprost,Bimatoprost,Bimatoprost 0.03% eye drops,Allergan,85.0,drops,17.0,11.9,Antiglaucoma/Prostaglandin,0.03%,drops
+Lumigan,Bimatoprost,Bimatoprost 0.03% eye drops,Allergan,280.0,drops,17.0,11.9,Antiglaucoma/Prostaglandin,0.03%,drops
+Dorzolamide,Dorzolamide,Dorzolamide 2% eye drops,Sun Pharma,85.0,drops,17.0,11.9,Antiglaucoma/CAI,2%,drops
+Trusopt,Dorzolamide,Dorzolamide 2% eye drops,MSD,220.0,drops,17.0,11.9,Antiglaucoma/CAI,2%,drops
+Moxicip,Moxifloxacin,Moxifloxacin 0.5% eye drops,Cipla,65.0,drops,13.0,9.1,Antibiotic/Ophthalmic,0.5%,drops
+Oflox Eye,Ofloxacin,Ofloxacin 0.3% eye drops,Cipla,45.0,drops,9.0,6.3,Antibiotic/Ophthalmic,0.3%,drops
+Gentamicin Eye,Gentamicin,Gentamicin 0.3% eye drops,Sun Pharma,35.0,drops,7.0,4.9,Antibiotic/Ophthalmic,0.3%,drops
+Betamethasone Eye,Betamethasone,Betamethasone 0.1% eye drops,Sun Pharma,22.0,drops,4.4,3.08,Corticosteroid/Ophthalmic,0.1%,drops
+Refresh Tears,Carboxymethylcellulose,CMC 0.5% eye drops,Allergan,95.0,drops,19.0,13.3,Lubricant/Ophthalmic,0.5%,drops
+Systane,Polyethylene Glycol,PEG 0.4% + PG 0.3% eye drops,Alcon,120.0,drops,24.0,16.8,Lubricant/Ophthalmic,0.4%+0.3%,drops
+Hypromellose,Hydroxypropyl Methylcellulose,HPMC 0.5% eye drops,Sun Pharma,45.0,drops,9.0,6.3,Lubricant/Ophthalmic,0.5%,drops
+Elocon,Mometasone,Mometasone 0.1% cream,Organon,55.0,cream,11.0,7.7,Corticosteroid/Topical,0.1%,cream
+Quadriderm,Betamethasone + Gentamicin + Clotrimazole + Tolnaftate,combo cream,Fulford,45.0,cream,9.0,6.3,Corticosteroid/Antibiotic/Antifungal Topical,combo,cream
+Isotretinoin,Isotretinoin,Isotretinoin 20mg,Sun Pharma,28.0,capsule,5.6,3.92,Retinoid/Topical,20mg,capsule
+Acnestar,Clindamycin + Nicotinamide,Clindamycin 1% + Nicotinamide 4% gel,Mankind,85.0,gel,17.0,11.9,Antibiotic/Topical,1%+4%,gel
+Benzac,Benzoyl Peroxide,Benzoyl Peroxide 5% gel,Galderma,120.0,gel,24.0,16.8,Keratolytic/Topical,5%,gel
+Tacrolimus,Tacrolimus,Tacrolimus 0.1% ointment,Astellas,185.0,ointment,37.0,25.9,Immunosuppressant/Topical,0.1%,ointment
+Protopic,Tacrolimus,Tacrolimus 0.1% ointment,Leo Pharma,285.0,ointment,37.0,25.9,Immunosuppressant/Topical,0.1%,ointment
+Clobetasol,Clobetasol,Clobetasol 0.05% cream,Sun Pharma,25.0,cream,5.0,3.5,Corticosteroid/Topical,0.05%,cream
+Dermovate,Clobetasol,Clobetasol 0.05% cream,GSK,55.0,cream,5.0,3.5,Corticosteroid/Topical,0.05%,cream
+Coal Tar,Coal Tar Shampoo,Coal Tar 2% shampoo,Various,12.0,shampoo,2.4,1.68,Keratolytic/Topical,2%,shampoo
+Selsun,Selenium Sulphide,Selenium Sulphide 2.5% lotion,Abbott,95.0,lotion,19.0,13.3,Antifungal/Topical,2.5%,lotion
+Flomax,Tamsulosin,Tamsulosin 0.4mg,Boehringer Ingelheim,45.0,capsule,2.4,1.68,Alpha Blocker/BPH,0.4mg,capsule
+Finast,Finasteride,Finasteride 5mg,Sun Pharma,8.5,tablet,1.7,1.19,5-alpha Reductase Inhibitor,5mg,tablet
+Dutasteride,Dutasteride,Dutasteride 0.5mg,Sun Pharma,18.0,capsule,3.6,2.52,5-alpha Reductase Inhibitor,0.5mg,capsule
+Avodart,Dutasteride,Dutasteride 0.5mg,GSK,65.0,capsule,3.6,2.52,5-alpha Reductase Inhibitor,0.5mg,capsule
+Tadalafil,Tadalafil,Tadalafil 10mg,Cipla,45.0,tablet,9.0,6.3,PDE5 Inhibitor/ED,10mg,tablet
+Cialis,Tadalafil,Tadalafil 20mg,Eli Lilly,285.0,tablet,10.0,7.0,PDE5 Inhibitor/ED,20mg,tablet
+Vardenafil,Vardenafil,Vardenafil 10mg,Bayer,85.0,tablet,17.0,11.9,PDE5 Inhibitor/ED,10mg,tablet
+Oxybutynin,Oxybutynin,Oxybutynin 5mg,Sun Pharma,8.5,tablet,1.7,1.19,Anticholinergic/OAB,5mg,tablet
+Ditropan,Oxybutynin,Oxybutynin 5mg,Janssen,28.0,tablet,1.7,1.19,Anticholinergic/OAB,5mg,tablet
+Solifenacin,Solifenacin,Solifenacin 5mg,Astellas,45.0,tablet,9.0,6.3,Anticholinergic/OAB,5mg,tablet
+Lariago,Chloroquine,Chloroquine 250mg,Ipca,4.5,tablet,0.9,0.63,Antimalarial,250mg,tablet
+Primaquine,Primaquine,Primaquine 7.5mg,Ipca,3.0,tablet,0.6,0.42,Antimalarial,7.5mg,tablet
+Falcigo,Artesunate,Artesunate 50mg,Ipca,8.5,tablet,1.7,1.19,Antimalarial/Artesunate,50mg,tablet
+Malarone,Atovaquone + Proguanil,Atovaquone 250mg + Proguanil 100mg,GSK,485.0,tablet,97.0,67.9,Antimalarial,250mg+100mg,tablet
+Mefloquine,Mefloquine,Mefloquine 250mg,Roche,65.0,tablet,13.0,9.1,Antimalarial,250mg,tablet
+Quinine,Quinine,Quinine 300mg,Sun Pharma,8.5,tablet,1.7,1.19,Antimalarial,300mg,tablet
+Metronidazole Suspension,Metronidazole,Metronidazole 200mg/5mL,Sun Pharma,8.5,syrup,1.7,1.19,Antiprotozoal,200mg/5mL,syrup
+Fasigyn,Tinidazole,Tinidazole 500mg,Pfizer,18.0,tablet,1.1,0.77,Antiprotozoal,500mg,tablet
+Alendronate,Alendronate,Alendronate 70mg,Sun Pharma,12.0,tablet,2.4,1.68,Bisphosphonate/Osteoporosis,70mg,tablet
+Fosamax,Alendronate,Alendronate 70mg,MSD,55.0,tablet,2.4,1.68,Bisphosphonate/Osteoporosis,70mg,tablet
+Risedronate,Risedronate,Risedronate 35mg,Sun Pharma,18.0,tablet,3.6,2.52,Bisphosphonate/Osteoporosis,35mg,tablet
+Actonel,Risedronate,Risedronate 35mg,Sanofi,65.0,tablet,3.6,2.52,Bisphosphonate/Osteoporosis,35mg,tablet
+Strontium Ranelate,Strontium Ranelate,Strontium Ranelate 2g,Servier,85.0,sachet,17.0,11.9,Osteoporosis,2g,sachet
+Denosumab,Denosumab,Denosumab 60mg,Amgen,18000.0,injection,3600.0,2520.0,Osteoporosis/RANKL Inhibitor,60mg,injection
+Prolia,Denosumab,Denosumab 60mg,Amgen,22000.0,injection,3600.0,2520.0,Osteoporosis/RANKL Inhibitor,60mg,injection
+Pudin Hara,Mint extract,Pudina Satva,Dabur,2.5,capsule,0.5,0.35,Antacid/Herbal,natural,capsule
+Hajmola,Digestive Tablets,Herbal digestive blend,Dabur,1.5,tablet,0.3,0.21,Digestive/Herbal,natural,tablet
+Vicks Vapo Rub,Camphor + Menthol + Eucalyptus Oil,Camphor 4.8% + Menthol 2.6%,Procter & Gamble,38.0,ointment,7.6,5.32,Decongestant/Topical,combo,ointment
+Moov,Diclofenac Diethylamine,Diclofenac Diethylamine 1.16% gel,Reckitt Benckiser,55.0,gel,11.0,7.7,Analgesic/Topical,1.16%,gel
+Volini,Diclofenac + Methyl Salicylate,Diclofenac 1% + Methyl Salicylate gel,Sun Pharma,65.0,gel,13.0,9.1,Analgesic/Topical,combo,gel
+Iodex,Methyl Salicylate + Cajuput Oil,Methyl Salicylate 14%,Beiersdorf,18.0,ointment,3.6,2.52,Analgesic/Topical,14%,ointment
+Cough Syrup (Benadryl),Diphenhydramine + Ammonium Chloride,DPH 14mg + AmCl 138mg per 5mL,Johnson & Johnson,68.0,syrup,13.6,9.52,Antitussive/Expectorant,per 5mL,syrup
+Chericof,Chlorpheniramine + Dextromethorphan,CPM 4mg + DXM 10mg per 5mL,Cipla,55.0,syrup,11.0,7.7,Antitussive/Antihistamine,per 5mL,syrup
+Nasivion,Oxymetazoline,Oxymetazoline 0.05% nasal drops,Merck,28.0,drops,5.6,3.92,Decongestant/Nasal,0.05%,drops
+Otrivin,Xylometazoline,Xylometazoline 0.1% nasal spray,Novartis,85.0,spray,17.0,11.9,Decongestant/Nasal,0.1%,spray
+Nasonex,Mometasone Furoate,Mometasone 50mcg nasal spray,Organon,220.0,spray,44.0,30.8,Corticosteroid/Nasal,50mcg,spray
+Flixonase,Fluticasone Propionate,Fluticasone 50mcg nasal spray,GSK,185.0,spray,37.0,25.9,Corticosteroid/Nasal,50mcg,spray
+Nasocort,Triamcinolone,Triamcinolone 55mcg nasal spray,Sanofi,145.0,spray,29.0,20.3,Corticosteroid/Nasal,55mcg,spray
+Ear Drops Cipla,Ciprofloxacin + Fluocinolone,Cipro 0.3% + Fluocinolone 0.025%,Cipla,45.0,drops,9.0,6.3,Antibiotic/Otic,0.3%+0.025%,drops
+Candibiotic,Clotrimazole + Beclomethasone + Chloramphenicol + Lignocaine,Antifungal+Steroid ear drops,Sun Pharma,85.0,drops,17.0,11.9,Antifungal/Otic,combo,drops
+Cyclosporine,Cyclosporine,Cyclosporine 100mg,Sun Pharma,48.0,capsule,9.6,6.72,Immunosuppressant,100mg,capsule
+Neoral,Cyclosporine,Cyclosporine 100mg,Novartis,185.0,capsule,9.6,6.72,Immunosuppressant,100mg,capsule
+Tacrolimus Oral,Tacrolimus,Tacrolimus 1mg,Sun Pharma,65.0,capsule,13.0,9.1,Immunosuppressant/Calcineurin Inhibitor,1mg,capsule
+Prograf,Tacrolimus,Tacrolimus 1mg,Astellas,280.0,capsule,13.0,9.1,Immunosuppressant/Calcineurin Inhibitor,1mg,capsule
+Mycophenolate,Mycophenolate Mofetil,Mycophenolate Mofetil 500mg,Sun Pharma,45.0,tablet,9.0,6.3,Immunosuppressant,500mg,tablet
+Cellcept,Mycophenolate Mofetil,Mycophenolate Mofetil 500mg,Roche,185.0,tablet,9.0,6.3,Immunosuppressant,500mg,tablet
+Everolimus,Everolimus,Everolimus 0.75mg,Novartis,485.0,tablet,97.0,67.9,Immunosuppressant/mTOR Inhibitor,0.75mg,tablet
+Insulin Aspart,Insulin Aspart,Insulin Aspart 100 IU/mL,Novo Nordisk,1250.0,injection,250.0,175.0,Antidiabetic/Insulin,100 IU/mL,injection
+NovoRapid,Insulin Aspart,Insulin Aspart 100 IU/mL,Novo Nordisk,1850.0,injection,250.0,175.0,Antidiabetic/Insulin,100 IU/mL,injection
+Insulin Lispro,Insulin Lispro,Insulin Lispro 100 IU/mL,Eli Lilly,1250.0,injection,250.0,175.0,Antidiabetic/Insulin,100 IU/mL,injection
+Humalog,Insulin Lispro,Insulin Lispro 100 IU/mL,Eli Lilly,1850.0,injection,250.0,175.0,Antidiabetic/Insulin,100 IU/mL,injection
+Glucagon,Glucagon,Glucagon 1mg,Eli Lilly,1850.0,injection,370.0,259.0,Antidiabetic/Hypoglycemia rescue,1mg,injection
+Sodium Bicarbonate,Sodium Bicarbonate,Sodium Bicarbonate 500mg,Sun Pharma,2.0,tablet,0.4,0.28,Antacid,500mg,tablet
+Activated Charcoal,Activated Charcoal,Activated Charcoal 250mg,Sun Pharma,5.5,tablet,1.1,0.77,Antidote/Poisoning,250mg,tablet
+Naloxone,Naloxone,Naloxone 0.4mg/mL,Sun Pharma,285.0,injection,57.0,39.9,Antidote/Opioid Antagonist,0.4mg/mL,injection
+Flumazenil,Flumazenil,Flumazenil 0.5mg/5mL,Roche,485.0,injection,97.0,67.9,Antidote/Benzodiazepine Antagonist,0.1mg/mL,injection
+Atropine,Atropine,Atropine 0.6mg,Sun Pharma,25.0,injection,5.0,3.5,Anticholinergic/Antidote,0.6mg,injection
+Adrenaline,Adrenaline,Adrenaline 1mg/mL,Sun Pharma,28.0,injection,5.6,3.92,Sympathomimetic/Anaphylaxis,1mg/mL,injection
+Epipen,Epinephrine,Epinephrine 0.3mg,Mylan,2800.0,injection,560.0,392.0,Sympathomimetic/Anaphylaxis,0.3mg,injection
+Magnesium Sulphate,Magnesium Sulphate,Magnesium Sulphate 50%,Sun Pharma,28.0,injection,5.6,3.92,Electrolyte/Anticonvulsant,50%,injection
+Potassium Chloride,Potassium Chloride,KCl 7.46%,Baxter,35.0,injection,7.0,4.9,Electrolyte Replenisher,7.46%,injection
+Normal Saline,Sodium Chloride,NaCl 0.9%,Claris Lifesciences,18.0,injection,3.6,2.52,IV Fluid,0.9%,injection
+Dextrose 5%,Dextrose,Dextrose 5%,Claris Lifesciences,22.0,injection,4.4,3.08,IV Fluid,5%,injection
+Ringer's Lactate,Ringer's Lactate,RL solution,Baxter,28.0,injection,5.6,3.92,IV Fluid,standard,injection
+Human Albumin,Human Albumin,Human Albumin 20%,Grifols,3800.0,injection,760.0,532.0,Colloid/IV Fluid,20%,injection
+Sumatriptan,Sumatriptan,Sumatriptan 50mg,Sun Pharma,28.0,tablet,5.6,3.92,Antimigraine/Triptan,50mg,tablet
+Imitrex,Sumatriptan,Sumatriptan 100mg,GSK,95.0,tablet,6.5,4.55,Antimigraine/Triptan,100mg,tablet
+Rizatriptan,Rizatriptan,Rizatriptan 10mg,Sun Pharma,38.0,tablet,7.6,5.32,Antimigraine/Triptan,10mg,tablet
+Maxalt,Rizatriptan,Rizatriptan 10mg,MSD,125.0,tablet,7.6,5.32,Antimigraine/Triptan,10mg,tablet
+Ergotamine + Caffeine,Ergotamine + Caffeine,Ergotamine 1mg + Caffeine 100mg,Sun Pharma,8.5,tablet,1.7,1.19,Antimigraine/Ergot,1mg+100mg,tablet
+Melatonin,Melatonin,Melatonin 3mg,Sun Pharma,12.0,tablet,2.4,1.68,Sedative/Hypnotic/Melatonin Agonist,3mg,tablet
+Eszopiclone,Eszopiclone,Eszopiclone 2mg,Sun Pharma,18.0,tablet,3.6,2.52,Sedative/Hypnotic,2mg,tablet
+Modafinil,Modafinil,Modafinil 200mg,Sun Pharma,28.0,tablet,5.6,3.92,Wakefulness Promoting,200mg,tablet
+Provigil,Modafinil,Modafinil 200mg,Cephalon,185.0,tablet,5.6,3.92,Wakefulness Promoting,200mg,tablet
+Osmoprep,Sodium Phosphate,Sodium Phosphate 1.5g,Salix,28.0,tablet,5.6,3.92,Laxative/Bowel Prep,1.5g,tablet
+Hydroxyzine,Hydroxyzine,Hydroxyzine 25mg,UCB Pharma,5.5,tablet,1.1,0.77,Antihistamine/Anxiolytic,25mg,tablet
+Atarax,Hydroxyzine,Hydroxyzine 25mg,UCB Pharma,18.0,tablet,1.1,0.77,Antihistamine/Anxiolytic,25mg,tablet
+Cyproheptadine,Cyproheptadine,Cyproheptadine 4mg,Sun Pharma,2.5,tablet,0.5,0.35,Antihistamine/Appetite stimulant,4mg,tablet
+Practin,Cyproheptadine,Cyproheptadine 4mg,Cipla,4.5,tablet,0.5,0.35,Antihistamine/Appetite stimulant,4mg,tablet
+Loratadine,Loratadine,Loratadine 10mg,Sun Pharma,5.5,tablet,1.1,0.77,Antihistamine,10mg,tablet
+Clarityn,Loratadine,Loratadine 10mg,Bayer,18.0,tablet,1.1,0.77,Antihistamine,10mg,tablet
+Fexofenadine,Fexofenadine,Fexofenadine 180mg,Sanofi,12.0,tablet,2.4,1.68,Antihistamine,180mg,tablet
+Desloratadine,Desloratadine,Desloratadine 5mg,Organon,12.0,tablet,2.4,1.68,Antihistamine,5mg,tablet
+Aerius,Desloratadine,Desloratadine 5mg,Organon,38.0,tablet,2.4,1.68,Antihistamine,5mg,tablet
+Levocetrizine,Levocetirizine,Levocetirizine 5mg,UCB Pharma,5.5,tablet,1.1,0.77,Antihistamine,5mg,tablet
+Xyzal,Levocetirizine,Levocetirizine 5mg,UCB Pharma,22.0,tablet,1.1,0.77,Antihistamine,5mg,tablet
+Bilastine,Bilastine,Bilastine 20mg,Glenmark,22.0,tablet,4.4,3.08,Antihistamine,20mg,tablet
+Rupatadine,Rupatadine,Rupatadine 10mg,Sun Pharma,18.0,tablet,3.6,2.52,Antihistamine/PAF Antagonist,10mg,tablet
+Daflon,Micronised Purified Flavonoid Fraction,MPFF 500mg,Servier,18.0,tablet,3.6,2.52,Venotonic,500mg,tablet
+Troxerutin,Troxerutin,Troxerutin 300mg,Sun Pharma,8.5,capsule,1.7,1.19,Venotonic/Capillary Protective,300mg,capsule
+Pentoxifylline,Pentoxifylline,Pentoxifylline 400mg,Sun Pharma,12.0,tablet,2.4,1.68,Hemorrheologic,400mg,tablet
+Trental,Pentoxifylline,Pentoxifylline 400mg,Sanofi,35.0,tablet,2.4,1.68,Hemorrheologic,400mg,tablet
+Nicorandil,Nicorandil,Nicorandil 5mg,Sun Pharma,8.5,tablet,1.7,1.19,Antianginal/Potassium Channel Opener,5mg,tablet
+Ivabrad,Ivabradine,Ivabradine 5mg,Sun Pharma,18.0,tablet,3.6,2.52,Antianginal/HCN channel blocker,5mg,tablet
+Trimetazidine,Trimetazidine,Trimetazidine 35mg,Sun Pharma,12.0,tablet,2.4,1.68,Antianginal/Metabolic,35mg,tablet
+Vastarel,Trimetazidine,Trimetazidine 35mg,Servier,35.0,tablet,2.4,1.68,Antianginal/Metabolic,35mg,tablet
+Telmisartan + HCTZ,Telmisartan + Hydrochlorothiazide,Telmisartan 40mg + HCTZ 12.5mg,Glenmark,18.0,tablet,3.6,2.52,Antihypertensive/ARB+Diuretic,40mg+12.5mg,tablet
+Micardis Plus,Telmisartan + Hydrochlorothiazide,Telmisartan 80mg + HCTZ 12.5mg,Boehringer Ingelheim,68.0,tablet,4.5,3.15,Antihypertensive/ARB+Diuretic,80mg+12.5mg,tablet
+Amlodipine + Atorvastatin,Amlodipine + Atorvastatin,Amlodipine 5mg + Atorvastatin 10mg,Cipla,12.0,tablet,2.4,1.68,Antihypertensive/Antilipidemic Combo,5mg+10mg,tablet
+Caduet,Amlodipine + Atorvastatin,Amlodipine 5mg + Atorvastatin 20mg,Pfizer,65.0,tablet,3.0,2.1,Antihypertensive/Antilipidemic Combo,5mg+20mg,tablet
